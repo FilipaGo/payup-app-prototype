@@ -1,4 +1,4 @@
-PayUp App - InVision Prototype
+# PayUp App - InVision Prototype
 
 Create a Group and Add an Expense User Flows:
 
