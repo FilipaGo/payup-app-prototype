@@ -17,4 +17,4 @@ Some PayUp screens. From left to right: onboarding, home, unfolded menu, bot.
 
 https://filipago.github.io/payup-app-prototype
 
-If you'd like to know more about this project, download the [Pitch Deck](_docs_readme/pitch_payup.key "PayUp Keynote Pitch Deck").
+If you'd like to know more about this project, download the [Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
