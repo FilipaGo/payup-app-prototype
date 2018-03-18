@@ -7,6 +7,7 @@ https://filipago.github.io/payup-app-prototype
 <br></br>
 
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_comp%402x.png" width="1000" />
+*The website had a huge bounce rate.*
 _Some PayUp screens. From left to right: onboarding, home, unfolded menu, bot._
 <br></br>
 
