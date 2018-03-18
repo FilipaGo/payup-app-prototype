@@ -4,11 +4,10 @@ PayUp is a mobile app to manage shared expenses, receive and pay debts, without 
 expose banking information. All you need is a mobile phone number.
 
 https://filipago.github.io/payup-app-prototype
-<br></br>
 
+<br></br>
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_comp%402x.png" width="1000" />
-*The website had a huge bounce rate.*
-_Some PayUp screens. From left to right: onboarding, home, unfolded menu, bot._
+Some PayUp screens. From left to right: onboarding, home, unfolded menu, bot.
 <br></br>
 
 **Create a Group and Add an Expense User Flows:**
