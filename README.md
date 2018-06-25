@@ -18,7 +18,7 @@ To tackle this challenge we mapped out the following strategy:
 * Ideation and Problem Definition
   * Elevator Pitch
   * Business Model Canvas
-  * Value Proposition
+  * Value Proposition Canvas
 * Research and Strategy
   * Bibliographical Research
   * Technical Documentation Analysis
