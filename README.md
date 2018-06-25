@@ -9,8 +9,7 @@ Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot.
 
 ## Project Summary
 
-PayUp is a mobile app to manage shared expenses, receive and pay debts, without the need to
-expose banking information. All you need is a mobile phone number.
+PayUp is a mobile app to manage shared expenses, receive and pay debts, without the need to expose banking information. All you need is a mobile phone number.
 
 👉 PayUp App InVision Prototype https://filipago.github.io/payup-app-prototype
 
