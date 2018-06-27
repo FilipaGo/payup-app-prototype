@@ -41,6 +41,7 @@ To tackle this challenge we mapped out the following strategy:
 * Prototyping
   * Product Requirements Document
   * Prototype (MVP)
+  * User Feedback Rounds 🔁
 * Presentation
   * Pitch Deck and Live Demo
   * Project Report
