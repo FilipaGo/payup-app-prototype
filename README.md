@@ -56,6 +56,33 @@ Even though all team members were involved in all project phases, we each chose 
 
 Lília tackled the flow for creating an account for a new user and Marta worked on sending money to a friend (making a payment).
 
+## Context and Challenge (Ideation)
+
+With the increasing digitalization of our society, consumers’ habits and expectations have been rapidly changing. The trend of instant access to goods and services, mainly through mobile phones, has driven the growth of real-time payments, fast (instant) and simple.
+
+> Customers make increasingly use of these online and mobile channels to buy goods and services at anytime and anywhere. These developments contribute to the expectation for a faster (or real-time) finality and/or confirmation of the payment. (EPC Report to the ERPB – Euro Retail Payments Board – on Instant Payments)
+
+PayUp is a mobile app that allows people to split and keep track of shared expenses, pay and collect debts among friends, easily, swiftly and safely, without the need to expose banking information.
+
+PayUp is readily available, anywhere, all the time, to quickly and effortlessly manage splitting costs without estimates, avoid lack of change, having the right amount, or having to know the recipient’s banking data to make a payment. All that is needed is a mobile phone number or an email address.
+
+The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP - Payment Initiation Service Provider).
+
+By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bmc.jpg" width="1000" />
+Our Business Model Canvas…
+</p>
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/vpc.jpg" width="1000" />
+And Value Proposition.
+</p>
+<br></br>
+
 ## Research
 
 If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
