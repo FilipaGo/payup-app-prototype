@@ -92,9 +92,9 @@ Whenever possible, everything was tested with real users; mostly colleagues, tra
 
 The development of the project went through 3 major phases:
 
-__1.__ __Research and Strategy__
+__1. Research and Strategy__
 
-⋅⋅⋅We wanted to make sure that splitting and managing shared expenses, as well as collecting/sending payments, were real problems of our presumed target audience. We tried to find data that could enlighten us on the business area we were working on and help shape the features and requirements that were necessary for the adoption of our solution.⋅⋅⋅
+We wanted to make sure that splitting and managing shared expenses, as well as collecting/sending payments, were real problems of our presumed target audience. We tried to find data that could enlighten us on the business area we were working on and help shape the features and requirements that were necessary for the adoption of our solution.
 
   * Bibliographical Research
   * Technical Documentation Analysis
@@ -104,7 +104,8 @@ __1.__ __Research and Strategy__
   * Personas
   * User and Job Stories
 
-2. __Interaction Design__
+__2. Interaction Design__
+
 We defined the user flows of the different personas, the information architecture and the wireframes of the platforms that make up our product (mobile app and landing page).
 
   * Functional Requirements Analysis
@@ -113,7 +114,8 @@ We defined the user flows of the different personas, the information architectur
   * Wireflows
   * User Feedback Rounds 🔁
 
-3. __Visual Design and Prototyping__
+__3. Visual Design and Prototyping__
+
 We designed all visual aspects concerning the product, from branding to high-fidelity mockups and prototypes.
 
   * Branding
