@@ -93,7 +93,7 @@ Whenever possible, everything was tested with real users; mostly colleagues, tra
 The development of the project went through 3 major phases:
 
 __1.__ __Research and Strategy__
-We wanted to make sure that splitting and managing shared expenses, as well as collecting/sending payments, were real problems of our presumed target audience. We tried to find data that could enlighten us on the business area we were working on and help shape the features and requirements that were necessary for the adoption of our solution.
+⋅⋅⋅We wanted to make sure that splitting and managing shared expenses, as well as collecting/sending payments, were real problems of our presumed target audience. We tried to find data that could enlighten us on the business area we were working on and help shape the features and requirements that were necessary for the adoption of our solution.⋅⋅⋅
 
   * Bibliographical Research
   * Technical Documentation Analysis
