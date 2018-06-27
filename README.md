@@ -86,9 +86,16 @@ And Value Proposition.
 
 ## Methodology
 
-We followed a LEAN methodology throughout this project. Our primary focus was always, first and foremost, on the perception of our potential users’ needs, testing the solutions that emerged and constantly iterating to improve the previously encountered solutions’ hypothesis.
+We followed a LEAN methodology throughout this project. Our primary focus was always, first and foremost, on the perception of our potential users’ needs, testing the solutions that emerged and constantly iterating to improve the previously encountered solutions’ hypothesis... Iterate until Awesome!
 
 Whenever possible, everything was tested with real users; mostly colleagues, trainers and friends. Their feedback was essential to the evolution of the design.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/lean.jpg" width="1000" />
+Lean Methodology by FlowCon.
+</p>
+<br></br>
 
 The development of the project went through 3 major phases:
 
