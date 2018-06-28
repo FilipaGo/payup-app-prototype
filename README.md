@@ -134,6 +134,26 @@ We designed all visual aspects concerning the product, from branding to high-fid
 
 ## Research
 
+Our research plan was kickstarted by five central questions:
+
+1. What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service?
+
+2. Who are our competitors? What are the market trends?
+
+3. How does our target audience split expenses?
+
+4. Which factors influence them the most when choosing a payment/transfer service?
+
+5. Which pain points are they facing and how can we fix them?
+
+Answering these questions was pivotal to assure we were building a true user centric product that would effectively solve a real problem.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/research.jpg" width="1000" />
+</p>
+<br></br>
+
 If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
 
 Full Case Study Coming Soon 🚧
