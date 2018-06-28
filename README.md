@@ -154,6 +154,16 @@ Answering these questions was pivotal to assure we were building a true user cen
 </p>
 <br></br>
 
+To answer these questions we used the following research methods:
+
+| Questions        | Research Methods |
+| -------------    | ------------- |
+| What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service? | Bibliographical research;<br/>Technical documentation analysis (Directives, Rulebooks, Regulations);<br/>Interviews with banking experts. |
+| Who are our competitors? What are the market trends? | Analysis on previous sector reports / Market research (Ex: SIBS Market Report 2016);<br/>Benchmarking (researching our direct and indirect competitors in order to analyze its’ strengths, weaknesses and possible improvements). |   
+| How does our target audience split expenses? | Online surveys;<br/>Interviews with target users. |    
+| Which factors influence them the most when choosing a payment/transfer service? | Online surveys;<br/>Interviews with target users. |    
+| Which pain points are they facing and how can we fix them? | Online surveys;<br/>Interviews with target users. |
+
 If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
 
 Full Case Study Coming Soon 🚧
