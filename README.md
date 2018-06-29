@@ -107,6 +107,7 @@ We wanted to make sure that splitting and managing shared expenses, as well as c
   * Technical Documentation Analysis
   * Benchmarking
   * Online Surveys
+  * User Interviews
   * Expert Interview
   * Personas
   * User and Job Stories
