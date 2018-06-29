@@ -69,9 +69,6 @@ PayUp is readily available, anywhere, all the time, to quickly and effortlessly 
 
 The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP - Payment Initiation Service Provider).
 
-> At the core of PSD2 is the need for Banks (= Account Servicing Payment Service Providers or AS PSPs) to grant AISP and PISP (= Third Party Providers or TPPs) access to their online account/payment services (...)
-This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ PSPs to facilitate secure access through API to their customer accounts and provide account information to third party apps, if the account holder wishes to do so. (PSD2, Open API and Real-time Breakthrough in Payments: the Retailers’ Perspective)
-
 By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
 <br></br>
@@ -174,6 +171,28 @@ To answer our research questions we used the following research methods:
 Researching and studying the documentation on instant payments and the PSD2 European Directive was of utterly importance, as we weren’t very familiar with all the norms, requirements and constraints that rule electronic payments in the Single Euro Payments Area (SEPA).
 
 You can [download our bibliography here]( https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/payup_bibliography.pdf  "PayUp’s Bibliography") if you want to read some of the documents we studied but... Friendly reminder 😬 … If I were you, I’d stick with just scanning through our findings 💤
+
+The new European Payment Services Directive (PSD2), which becomes applicable on January 13th 2018, is what enables the rising of a product like PayUp.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/psd2.jpg" width="1000" />
+</p>
+<br></br>
+
+All EU banks are obliged to comply with this directive by September 2019, and make open APIs available to any Payment Initiation Service Provider (PISP) — that’s us! 💪
+
+> At the core of PSD2 is the need for Banks (= Account Servicing Payment Service Providers or AS PSPs) to grant AISP and PISP (= Third Party Providers or TPPs) access to their online account/payment services (...)
+This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ PSPs to facilitate secure access through API to their customer accounts and provide account information to third party apps, if the account holder wishes to do so. (PSD2, Open API and Real-time Breakthrough in Payments: the Retailers’ Perspective)
+
+A PISP is a service provider that initiates a payment order (transfer) at the request of the user relative to an account that is held by another payment services provider (like a bank or SIBS, in Portugal).
+
+Being a PISP, we must comply with a set of obligations:
+
+* We may not, at any time, hold the payer's funds;
+* We must ensures that the user's custom security credentials are not accessible by other
+Part;
+* We cannot change the amount, the payer or any other element of the transaction.
 
 Analyzing the documentation led us to quite a few findings that would have implications in the development of our product:
 
