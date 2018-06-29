@@ -185,13 +185,13 @@ All EU banks are obliged to comply with this directive by September 2019, and ma
 > At the core of PSD2 is the need for Banks (= Account Servicing Payment Service Providers or AS PSPs) to grant AISP and PISP (= Third Party Providers or TPPs) access to their online account/payment services (...)
 This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ PSPs to facilitate secure access through API to their customer accounts and provide account information to third party apps, if the account holder wishes to do so. (PSD2, Open API and Real-time Breakthrough in Payments: the Retailers’ Perspective)
 
-A PISP is a service provider that initiates a payment order (transfer) at the request of the user relative to an account that is held by another payment services provider (like a bank or SIBS, in Portugal).
+A PISP is a Service Provider that initiates a payment order (transfer), at the request of the user, relative to an account that is held by another Payment Services Provider (like a bank or SIBS, in Portugal).
 
 Being a PISP, we must comply with a set of obligations:
 
 * We may not, at any time, hold the payer's funds;
-* We must ensures that the user's custom security credentials are not accessible by other
-Part;
+* We must ensure that the user's custom security credentials are not accessible by other
+parts;
 * We cannot change the amount, the payer or any other element of the transaction.
 
 Analyzing the documentation led us to quite a few findings that would have implications in the development of our product:
