@@ -151,6 +151,7 @@ Answering these questions was pivotal to assure we were building a true user cen
 
 To answer our research questions we used the following research methods:
 
+<br></br>
 | #       | Research Questions | Research Methods |
 | :-----: | --------- | ---------------- |
 | **1** | What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service? | - Bibliographical research;<br/>Technical documentation analysis (Directives, Rulebooks, Regulations);<br/>- Interviews with banking experts. |
