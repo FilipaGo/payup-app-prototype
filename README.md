@@ -69,6 +69,9 @@ PayUp is readily available, anywhere, all the time, to quickly and effortlessly 
 
 The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP - Payment Initiation Service Provider).
 
+> At the core of PSD2 is the need for Banks (= Account Servicing Payment Service Providers or AS PSPs) to grant AISP and PISP (= Third Party Providers or TPPs) access to their online account/payment services (...)
+This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ PSPs to facilitate secure access through API to their customer accounts and provide account information to third party apps, if the account holder wishes to do so. (PSD2, Open API and Real-time Breakthrough in Payments: the Retailers’ Perspective)
+
 By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
 <br></br>
@@ -166,6 +169,50 @@ To answer our research questions we used the following research methods:
 </p>
 <br></br>
 
-If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
+### Documentary Research and Analysis
+
+Researching and studying the documentation on instant payments and the PSD2 European Directive was of utterly importance, as we weren’t very familiar with all the norms, requirements and constraints that rule electronic payments in the Single Euro Payments Area (SEPA).
+
+You can [download our bibliography here]( https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/payup_bibliography.pdf  "PayUp’s Bibliography") if you want to read some of the documents we studied but... Friendly reminder 😬 … If I were you, I’d stick with just scanning through our findings 💤
+
+Analyzing the documentation led us to quite a few findings that would have implications in the development of our product:
+
+#### Security and Authentication
+
+* Electronic payments/transfers are now subject to strong customer authentication (2-factor authentication). As such, the users’ identity must be verified with 2 personalized credentials.
+
+* Transfers of less than € 30 and whose cumulative amount of transactions since the last transaction that was made with strong authentication does not exceed 100 to 500 euros (depending on the level of fraud observed in the Payments Service Provider — PSP) do not require the strong authentication mechanism.
+
+* Strong authentication is mandatory except for low value transactions (< € 30) or when transferring money to pre-parameterized beneficiaries.
+
+#### Costs
+
+If there are any, the national transfer fees are settled by the payer, however the SEPA CT scheme allows that fees may be shared between the payer and the beneficiary.
+
+Just to make it perfectly clear... the payer is the person who sends the money and the beneficiary is the one who receives it. 🤓
+
+#### Mandatory Data
+
+**The following data is required to initiate a payment/transfer transaction:**
+
+1. Beneficiary Name
+2. Beneficiary IBAN (International Bank Account Number) — this number can be obtained through a debit card, as it is always attached to a bank account
+3. Transfer Amount
+4. Transaction Reference (140 characters max.)
+5. Currency (EUR)
+
+**The PISP has to send the payer and the beneficiary the following information, immediately after initiating a transaction:**
+
+* Confirmation that the initiation of the transfer with the PSP that manages the payer's account was successful;
+* Transaction Unique Identifier (a long number that enables identifying the transaction in the future);
+* Transfer amount and currency (EUR);
+* PISP Fees (if any);
+* Transaction date.
+
+### Benchmarking
 
 Full Case Study Coming Soon 🚧
+
+***
+
+If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
