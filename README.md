@@ -133,7 +133,7 @@ We designed all visual aspects concerning the product, from branding to high-fid
   * Prototypes (MVP)
   * User Feedback Rounds 🔁
 
-## Research
+## Research and Strategy
 
 Our research plan was kickstarted by five central questions:
 
@@ -149,21 +149,21 @@ Our research plan was kickstarted by five central questions:
 
 Answering these questions was pivotal to assure we were building a true user centric product that would effectively solve a real problem.
 
-<br></br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/research.jpg" width="1000" />
-</p>
-<br></br>
+To answer our research questions we used the following research methods:
 
-To answer these questions we used the following research methods:
-
-| #       | Questions | Research Methods |
+| #       | Research Questions | Research Methods |
 | :-----: | --------- | ---------------- |
 | **1** | What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service? | - Bibliographical research;<br/>Technical documentation analysis (Directives, Rulebooks, Regulations);<br/>- Interviews with banking experts. |
 | **2** | Who are our competitors? What are the market trends? | - Analysis on previous sector reports / Market research (Ex: SIBS Market Report 2016);<br/>- Benchmarking (researching our direct and indirect competitors in order to analyze its’ strengths, weaknesses and possible improvements). |   
 | **3** | How does our target audience split expenses? | - Online surveys;<br/> - Interviews with target users. |    
 | **4** | Which factors influence them the most when choosing a payment/transfer service? | - Online surveys;<br/> - Interviews with target users. |    
 | **5** | Which pain points are they facing and how can we fix them? | - Online surveys;<br/> - Interviews with target users. |
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/research.jpg" width="1000" />
+</p>
+<br></br>
 
 If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
 
