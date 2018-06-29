@@ -47,6 +47,7 @@ To tackle this challenge we mapped out the following strategy:
   - Project Report
 
 Even though all team members were involved in all project phases, we each chose a main user flow to work on. I was responsible for designing the flow to create a group to share expenses and add an expense to that group.
+***
 
 👉 PayUp App InVision Partial Prototype https://filipago.github.io/payup-app-prototype
 
@@ -56,6 +57,7 @@ Even though all team members were involved in all project phases, we each chose 
 - Power User version (chatbot)
 
 Lília tackled the flow for creating an account for a new user and Marta worked on sending money to a friend (making a payment).
+***
 
 ## Context and Challenge (Ideation)
 
