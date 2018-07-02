@@ -230,6 +230,33 @@ Just to make it perfectly clear... the payer is the person who sends the money a
 * PISP Fees (if any);
 * Transaction date.
 
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_fav-payment-method.jpg" width="1000" />
+</p>
+<br></br>
+
+SIBS carried out a study with the goal of understanding how the Portuguese use different payment methods, find out which ones are the most common and how they are used by consumers with different profiles and in different environments. With this analysis, SIBS also tried to identify trends in the adoption of new and emerging payment methods, as well as any barriers to its adoption.
+
+The market study shows that most Portuguese internet users prefer making purchases with electronic payment methods, both online and in physical stores. The same holds true when making payments to friends and family or paying invoices.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-factors.jpg" width="1000" />
+</p>
+<br></br>
+
+In this report, SIBS anticipates a rapid migration from cash to electronic payments, as consumers become more and more familiar with the technology and because people mostly value convenience and speed when choosing a payment method for P2P transactions.
+
+<br></br>
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-method-amount.jpg" width="1000" />
+</p>
+<br></br>
+
+Cash is still the most used payment method when paying for small amounts.
+
+As PayUp facilitates making payments to family and friends, allowing the user to make an instant interbank transfer to a mobile phone number (no need for IBAN), its simplicity and speed can make it a very convenient alternative to cash, even for smaller payments.
+
 ### Benchmarking
 
 Full Case Study Coming Soon 🚧
