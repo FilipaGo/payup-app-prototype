@@ -309,7 +309,7 @@ In the vast majority of cases, cash-out operations are free although there are c
 
 The sources of income of these products are quite varied, standing out among them the revenues coming from:
 
-Advertising;
+* Advertising;
 * Trading commissions charged to merchants and customers;
 * Foreign exchange conversions;
 * Income from the financial investment of the wallet accounts' balance;
