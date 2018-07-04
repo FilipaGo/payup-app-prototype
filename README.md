@@ -258,6 +258,8 @@ Cash is still the most used payment method when paying for small amounts.
 
 As PayUp facilitates making payments to family and friends, allowing the user to make an instant interbank transfer to a mobile phone number (no need for IBAN), its simplicity and speed can make it a very convenient alternative to cash, even for smaller payments.
 
+Payments of small amounts among friends are an important opportunity to capture new electronic transactions.
+
 ### Benchmarking
 
 <br></br>
@@ -266,7 +268,30 @@ As PayUp facilitates making payments to family and friends, allowing the user to
 </p>
 <br></br>
 
-We analyzed 16 products that allow sending transfers/payments to contacts, request the payment of a debt and/or organize joint expenses, using a mobile phone number and/or an email.
+We analyzed **16 products** that allow sending transfers/payments to contacts, request the payment of a debt and/or organize joint expenses, using a mobile phone number and/or an email.
+
+Our goals were:
+
+* Knowing the scope of the competing products on the market;
+* Analyzing their primary features and infer which are most common;
+* Testing their usability;
+* Knowing what financial costs these products have for the users;
+* Determining their main revenue sources;
+* Understanding PayUp’s market placement.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table01.jpg" width="600" />
+Benchmarking Table detail.
+</p>
+<br></br>
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" width="600" />
+Benchmarking Table detail.
+</p>
+<br></br>
 
 Full Case Study Coming Soon 🚧
 
