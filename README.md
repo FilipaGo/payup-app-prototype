@@ -281,14 +281,14 @@ Our goals were:
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table01.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table01.jpg" width="1000" />
 Benchmarking Table detail.
 </p>
 <br></br>
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" width="1000" />
 Benchmarking Table detail.
 </p>
 <br></br>
