@@ -262,7 +262,7 @@ As PayUp facilitates making payments to family and friends, allowing the user to
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" width="600" />
 </p>
 <br></br>
 
