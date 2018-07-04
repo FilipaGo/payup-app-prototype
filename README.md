@@ -69,7 +69,7 @@ PayUp is a mobile app that allows people to split and keep track of shared expen
 
 PayUp is readily available, anywhere, all the time, to quickly and effortlessly manage splitting costs without estimates, avoid lack of change, having the right amount, or having to know the recipient’s banking data to make a payment. All that is needed is a mobile phone number or an email address.
 
-The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP - Payment Initiation Service Provider).
+The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP — Payment Initiation Service Provider).
 
 By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
@@ -269,7 +269,7 @@ Payments of small amounts among friends are an important opportunity to capture 
 
 We analyzed **16 products** that allow sending transfers/payments to contacts, request the payment of a debt and/or organize joint expenses, using a mobile phone number and/or an email.
 
-Our goals were:
+**Our goals were:**
 
 * Knowing the scope of the competing products on the market;
 * Analyzing their primary features and infer which are most common;
@@ -278,12 +278,74 @@ Our goals were:
 * Determining their main revenue sources;
 * Understanding PayUp’s market placement.
 
+**9 out of 16 products are available in Portugal** and of these, 2 are only available in Portugal.
+
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" width="1000" />
 Benchmarking Table detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking.pdf" >download the Benchmarking Analysis here</a>.
 </p>
 <br></br>
+
+The Benchmarking analysis allowed us to infer some of **PayUp’s competitive advantages**.
+
+Most products usually target a single functional area: payments (P2P transfers) or splitting expenses — **PayUp targets both**.
+
+6 out of 9 products available in Portugal allow the user to make payments. 3 out of 9 products only allow the user to manage splitting expenses and creating groups or events to add expenses.
+
+Only 2 out of 9 allow the user to request the payment of expenses and share them, albeit to a limited extent.
+
+Some companies' business models point to significant costs for the user in at least some specific circumstances — **PayUp aims to reduce these costs to a minimum**.
+
+Transfers made between wallet accounts are always free, however, cash-in transactions for the wallet account may have significant costs for the user.
+
+Transfers made from the bank account associated with the debit card, even if not charged by the product being used, may incur costs for the user, depending on their bank.
+
+In the vast majority of cases, most transfers made from the credit card are charged.
+
+At this stage, all Verse transactions are free of charge and Venmo makes free transfers from the bank account associated with the debit card or from another bank account, stating that it supports the costs that may be charged by the user's bank.
+
+In the vast majority of cases, cash-out operations are free although there are circumstances where immediate cash-out is charged.
+
+The sources of income of these products are quite varied, standing out among them the revenues coming from:
+
+Advertising;
+* Trading commissions charged to merchants and customers;
+* Foreign exchange conversions;
+* Income from the financial investment of the wallet accounts' balance;
+* Premium versions with added features;
+* In-app purchases.
+
+Splitwise's business model does not imply the generation of revenue from users. According to the organization, the company's revenues will come in the future from a potential agreement with Paypal to be compensated for the traffic redirected to this company. Splitwise is currently funded by business angels.
+
+A significant number of the apps we checked are geographically limited, some of which operate exclusively in the USA — **PayUp's MVP covers the national territory (Portugal), but in a second phase it will expand to Europe and in a third one, it will cover low banking territories**.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_venn.jpg" width="1000" />
+PayUp’s sectoral competitors.
+</p>
+<br></br>
+
+With the previous assumptions set forth and taking into account that PayUp intends to cover the entire value chain, we identified the following primary sectoral competitors:
+
+**In the area of the division of expenses — Splitwise**
+
+This application is partial; it allows the users to split expenses but doesn't let them make payments inside the app. It can be easily supplanted by PayUp if the quality of the implemented functionality is at least equivalent to Splitwises'.
+
+**In the area of payments (P2P Transfers) — MB WAY and Verse**
+
+MB Way doesn't allow the user to split expenses or request the payment of a debt. It's most significant strength is its' transfer facilities.
+
+Currently, Verse has a great competitive advantage, as it is completely free of charge, but we already know that this will change in the future.
+
+Caixa Plim is only available to Caixa Geral de Depositos' bank clients...
+
+PayUp's great advantage will be the integration of both functional areas, allowing the user to split expenses, settle the bills and pay for them.
+
+Although Venmo could have the potential to be a major competitor, we are not considering it as it operates exclusively in the US market.
+
+### Online Surveys
 
 Full Case Study Coming Soon 🚧
 
