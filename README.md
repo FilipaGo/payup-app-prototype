@@ -249,6 +249,7 @@ The market study shows that most Portuguese internet users prefer making purchas
 In this report, SIBS anticipates a rapid migration from cash to electronic payments, as consumers become more and more familiar with the technology and because people mostly value convenience and speed when choosing a payment method for P2P transactions.
 
 <br></br>
+<p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-method-amount.jpg" width="1000" />
 </p>
 <br></br>
@@ -260,7 +261,8 @@ As PayUp facilitates making payments to family and friends, allowing the user to
 ### Benchmarking
 
 <br></br>
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" width="1000" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" width="800" />
 </p>
 <br></br>
 
