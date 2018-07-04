@@ -283,7 +283,7 @@ We analyzed **16 products** that allow sending transfers/payments to contacts, r
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" width="1000" />
-Benchmarking Table detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking.pdf" >download the Benchmarking Analysis here</a>.
+Benchmarking Table detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking.pdf">download the Benchmarking Analysis here</a> and the <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking_findings.pdf">our Findings there</a>.
 </p>
 <br></br>
 
