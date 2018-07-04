@@ -259,6 +259,13 @@ As PayUp facilitates making payments to family and friends, allowing the user to
 
 ### Benchmarking
 
+<br></br>
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" width="1000" />
+</p>
+<br></br>
+
+We analyzed 16 products that allow sending transfers/payments to contacts, request the payment of a debt and/or organize joint expenses, using a mobile phone number and/or an email.
+
 Full Case Study Coming Soon 🚧
 
 ***
