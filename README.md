@@ -24,7 +24,7 @@ To tackle this challenge we mapped out the following strategy:
   - Technical Documentation Analysis
   - Benchmarking
   - Online Surveys
-  - Interviews with Users
+  - Interviews (with potential users)
   - Expert Interview
   - Personas
   - User and Job Stories
@@ -109,7 +109,7 @@ We wanted to make sure that splitting and managing shared expenses, as well as c
   * Technical Documentation Analysis
   * Benchmarking
   * Online Surveys
-  * User Interviews
+  * Interviews (with potential users)
   * Expert Interview
   * Personas
   * User and Job Stories
@@ -346,6 +346,79 @@ PayUp's great advantage will be the integration of both functional areas, allowi
 Although Venmo could have the potential to be a major competitor, we are not considering it as it operates exclusively in the US market.
 
 ### Online Surveys
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_g-forms.jpg" width="1000" />
+Our Google Form (details).
+</p>
+<br></br>
+
+We used accidental sampling (selection by convenience or opportunity) on our surveys, which is a type of nonprobability sampling that involves the sample being drawn from a part of the population which is close to hand. That is, the sample was selected because it was readily available and convenient.
+
+Our criteria for selecting elements was based on assumptions regarding the population of interest, therefore, we could not make generalizations about the total population from this sample because it wasn’t representative enough.
+
+But even though the sample wasn’t fully representative of our segment and didn’t allow us to draw real conclusions, it did allow us to **generate hypotheses and insights** as well as test the questions to be asked during the interviews.
+
+**We wanted to know**:
+
+* Who are the people who share expenses and what are their habits?
+* How much do they usually split?
+* On which occasions?
+* How frequently?
+* With whom?
+* How do they keep track of shared expenses?
+* How do they pay for their share?
+* What pain points are they experiencing?
+(…)
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_script01.jpg" width="1000" />
+Our Online Survey Script. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/surveys_script.pdf" >download the full script here</a>.
+</p>
+<br></br>
+
+To generate insights into these, we started out by designing a script that could be readily available online.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_table.jpg" width="1000" />
+Survey Data Analysis detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/inqueritos_analise_v06.xlsx" >download the full analysis here</a>.
+</p>
+<br></br>
+
+We managed to get a **sample of 100** people over 4 days, who kindly accepted to help us out.
+
+62% of respondents were female and 38% male. 78% of respondents were aged between 20 and 45 and 70% had a college education.
+
+91% of respondents had a smartphone. The majority felt comfortable using it and 88% also used mobile apps on a regular basis.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_expenses.jpg" width="1000" />
+61% of respondents share expenses. Of those, 85% use online payments.
+</p>
+<br></br>
+
+The **key findings** from the online surveys were:
+
+* The majority of respondents who share expenses, are aged between 26 and 35 and have a college education;
+* They use smartphones, mobile apps and digital payment methods;
+* They mainly share expenses when going to group dinners, paying household bills and when purchasing gifts;
+* They mostly share supermarket purchases, gasoline and tolls;
+* They usually share expenses with friends and boyfriends/girlfriends;
+* Most pay less than € 40 for their share;
+* They split expenses with a medium to medium-high frequency;
+* They mainly use money and bank transfers to pay, but prefer bank transfers;
+* Bank transfers are used mainly to pay for rent (higher amounts);
+* Convenience and ease are the factors that most influence their choice of payment;
+* Splitting bills (who pays for what), the immediacy of payment and forgetfulness are the problems that were most often identified when sharing expenses;
+* Most respondents usually register expenses on paper and is satisfied using this method.
+
+### Interviews
+
+We conducted **10 interviews** in order to understand the behaviour of people who frequently share expenses and therefore are potential users of our product.
 
 Full Case Study Coming Soon 🚧
 
