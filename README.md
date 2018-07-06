@@ -341,6 +341,13 @@ Currently, Verse has a great competitive advantage, as it is completely free of 
 
 Caixa Plim is only available to Caixa Geral de Depositos' bank clients...
 
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/value_curves.jpg" width="1000" />
+Value Curves.
+</p>
+<br></br>
+
 PayUp's great advantage will be the integration of both functional areas, allowing the user to split expenses, settle the bills and pay for them.
 
 Although Venmo could have the potential to be a major competitor, we are not considering it as it operates exclusively in the US market.
