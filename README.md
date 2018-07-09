@@ -444,7 +444,97 @@ The **key findings** from the online surveys were:
 
 ### Interviews
 
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/interviews.jpg" width="1000" />
+Potential End Users' Interviews' notes. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/entrevistas_utilizadores.xlsx" >download the notes here</a>.
+</p>
+<br></br>
+
 We conducted **10 interviews** in order to understand the behaviour of people who frequently share expenses and therefore are potential end users of our product.
+
+Respondents said that when they decide to pay with cash, it is not because they think it is the best method, it's because they are with the people to whom they have to pay (opportunity). But the lack of having the right amount and change can complicate the process a lot.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_01.jpg" width="1000" />
+</p>
+<br></br>
+
+Most problems that arise from splitting expenses happen when people have to pay for different things with different values, making it hard to manage how much each one owes. In addition, it was mentioned that there are people who forget that they owe money and that having to remind them several times can be annoying and embarrassing.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_02.jpg" width="1000" />
+</p>
+<br></br>
+
+Two respondents use PayPal and enjoy the app, but they said they never used it to make transfers; only for online purchases.
+
+One of the interviewees mentioned that he doesn't use PayPal for transfers because he doesn't know which of his friends subscribed to the service. He also thinks that in order to make transfers, he has to know his friends' usernames.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_03.jpg" width="1000" />
+</p>
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/count.gif" width="100" />
+</p>
+<br></br>
+
+The **main pain points** identified by the interviewees were:
+
+* Forgetfulness/neglect;
+* Lack of change/lack of money (right amount);
+* Managing multiple expenses simultaneously;
+* Checking who has already paid / who has to pay;
+* Remind/communicate with those who have to pay;
+* Lack of banking details to make a payment.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_04.jpg" width="1000" />
+</p>
+<br></br>
+
+The **main needs** perceived over the interviews were:
+
+* Making payments easily;
+* Creating groups to share expenses;
+* Inviting friends;
+* Setting values and payment deadlines;
+* Managing expenses;
+* Receiving and sending notifications;
+* Automated calculation;
+* Not needing much data to make payments;
+
+### Personas
+
+Research helped us confirm that our target audience is the Millennials — young people aged between 18 and 37, with a medium to higher education, single, residing in large urban centres and who are very familiar with the new technologies. They are the generation of sharing and usually live with their parents or share a house with friends.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/millennials.gif" width="240" />
+</p>
+There are about 2 321 806 Millennials in Portugal (that's our initial market size!). Source: Pordata
+<br></br>
+
+From our documental research, survey analysis and interviews with potential users, we defined 2 personas for the main user-flows.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" width="1000" /> Meet Joana...
+</p>
+<br></br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_leonor.jpg" width="1000" /> And Maria Leonor!
+</p>
+<br></br>
+
+To attend our users' needs, our product should focus on registering and calculating shared expenses, and on the payment and collection of debts.
 
 Full Case Study Coming Soon 🚧
 
