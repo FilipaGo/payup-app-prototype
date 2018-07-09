@@ -15,7 +15,7 @@ We designed PayUp; a mobile app to manage shared expenses, receive and pay debts
 
 To tackle this challenge we mapped out the following strategy:
 
-+ Ideation and Problem Definition
+- Ideation and Problem Definition
   - Elevator Pitch
   - Business Model Canvas
   - Value Proposition Canvas
@@ -24,7 +24,7 @@ To tackle this challenge we mapped out the following strategy:
   - Technical Documentation Analysis
   - Benchmarking
   - Online Surveys
-  - Interviews (with potential users)
+  - Interviews (with potential end users)
   - Expert Interview
   - Personas
   - User and Job Stories
@@ -63,28 +63,47 @@ Lília tackled the flow for creating an account for a new user and Marta worked 
 
 With the increasing digitalization of our society, consumers’ habits and expectations have been rapidly changing. The trend of instant access to goods and services, mainly through mobile phones, has driven the growth of real-time payments, fast (instant) and simple.
 
-> Customers make increasingly use of these online and mobile channels to buy goods and services at anytime and anywhere. These developments contribute to the expectation for a faster (or real-time) finality and/or confirmation of the payment. (EPC Report to the ERPB – Euro Retail Payments Board – on Instant Payments)
+> Customers make increasingly use of these online and mobile channels to buy goods and services at anytime and anywhere. These developments contribute to the expectation for a faster (or real-time) finality and/or confirmation of the payment. (EPC Report to the ERPB — Euro Retail Payments Board — on Instant Payments)
 
-PayUp is a mobile app that allows people to split and keep track of shared expenses, pay and collect debts among friends, easily, swiftly and safely, without the need to expose banking information.
+Millennials are busy bees and have very active social lives. They need a more efficient way to manage shared expenses and pay their friends without worrying about doing the math or knowing IBAN numbers.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/problem.jpg" width="1000" />
+</p>
+<br></br>
+
+PayUp is a mobile app that allows them to split and keep track of shared expenses, pay and collect debts among friends, easily, swiftly and safely, without the need to expose banking information.
+
+<br></br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/solution.jpg" width="1000" />
+</p>
+<br></br>
 
 PayUp is readily available, anywhere, all the time, to quickly and effortlessly manage splitting costs without estimates, avoid lack of change, having the right amount, or having to know the recipient’s banking data to make a payment. All that is needed is a mobile phone number or an email address.
-
-The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP — Payment Initiation Service Provider).
-
-By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bmc.jpg" width="1000" />
 Our Business Model Canvas…
 </p>
+<br></br>
+
+The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP - Payment Initiation Service Provider).
+
+By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/vpc.jpg" width="1000" />
-And Value Proposition.
+Our Value Proposition...
 </p>
 <br></br>
+
+So our **elevator pitch** went something like this:
+
+> Our goal in creating PayUp is to help Millennials solve problems with splitting and tracking shared expenses, collecting and paying off debts among friends, by developing a mobile app that is better than MB WAY, Verse and Splitwise because it integrates into a single product the possibility to send or receive instant payments at any time, in a fast and easy way, without the need to disclose banking information, as well as track shared expenses.
 
 ## Methodology
 
@@ -109,7 +128,7 @@ We wanted to make sure that splitting and managing shared expenses, as well as c
   * Technical Documentation Analysis
   * Benchmarking
   * Online Surveys
-  * Interviews (with potential users)
+  * Interviews (with potential end users)
   * Expert Interview
   * Personas
   * User and Job Stories
@@ -158,9 +177,9 @@ To answer our research questions we used the following research methods:
 | :-----: | --------- | ---------------- |
 | **1** | What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service? | - Bibliographical research;<br/>Technical documentation analysis (Directives, Rulebooks, Regulations);<br/>- Interviews with banking experts. |
 | **2** | Who are our competitors? What are the market trends? | - Analysis on previous sector reports / Market research (Ex: SIBS Market Report 2016);<br/>- Benchmarking (researching our direct and indirect competitors in order to analyze its’ strengths, weaknesses and possible improvements). |   
-| **3** | How does our target audience split expenses? | - Online surveys;<br/> - Interviews with target users. |    
-| **4** | Which factors influence them the most when choosing a payment/transfer service? | - Online surveys;<br/> - Interviews with target users. |    
-| **5** | Which pain points are they facing and how can we fix them? | - Online surveys;<br/> - Interviews with target users. |
+| **3** | How does our target audience split expenses? | - Online surveys;<br/> - Interviews with potential end users. |    
+| **4** | Which factors influence them the most when choosing a payment/transfer service? | - Online surveys;<br/> - Interviews with potential end users. |    
+| **5** | Which pain points are they facing and how can we fix them? | - Online surveys;<br/> - Interviews with potential end users. |
 
 <br></br>
 <p align="center">
@@ -425,7 +444,7 @@ The **key findings** from the online surveys were:
 
 ### Interviews
 
-We conducted **10 interviews** in order to understand the behaviour of people who frequently share expenses and therefore are potential users of our product.
+We conducted **10 interviews** in order to understand the behaviour of people who frequently share expenses and therefore are potential end users of our product.
 
 Full Case Study Coming Soon 🚧
 
