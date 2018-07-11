@@ -288,7 +288,7 @@ We analyzed **16 products** that allow sending transfers/payments to contacts, r
 * Determining their main revenue sources;
 * Understanding PayUp’s market placement.
 
-**9 out of 16 products are available in Portugal** and of these, 2 are only available in Portugal.
+**Only 9 out of 16 products are available in Portugal** and of these, 2 are only available in Portugal.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" alt="Benchmarking Table detail" width="1000">
@@ -299,7 +299,7 @@ The Benchmarking analysis allowed us to infer some of **PayUp’s competitive ad
 
 Most products usually target a single functional area: payments (P2P transfers) or splitting expenses — **PayUp targets both**.
 
-Only **9 out of 16 products are available in Portugal**. 6 out of these 9, allow the user to make payments. 3 out of 9 products only allow the user to manage splitting expenses and creating groups or events to add expenses.
+6 out of 9 products available in Portugal allow the user to make payments. 3 out of 9 products only allow the user to manage splitting expenses and creating groups or events to add expenses.
 
 Only 2 out of 9 allow the user to request the payment of expenses and share them, albeit to a limited extent.
 
@@ -484,9 +484,9 @@ Research helped us confirm that **our target audience is the Millennials** — y
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/millennials.gif" alt="Excited Millennials using their mobile phones" width="240">
 </p>
 
-There are about 2 321 806 Millennials in Portugal (that's our initial market size!). Source: Pordata
+<p align="center">There are about 2 321 806 Millennials in Portugal (that's our initial market size!). Source: Pordata</p>
 
-From our documental research, survey analysis and interviews with potential users, we defined 2 main personas for the user-flows.
+From our documental research, survey analysis and interviews with potential users, we defined **2 main personas** for the user-flows.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" alt="Main persona Joana Antunes" width="1000"> Meet Joana...
