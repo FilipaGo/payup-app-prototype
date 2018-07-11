@@ -1,11 +1,9 @@
 # PayUp App
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_comp.jpg" width="1000" />
-Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot.
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_comp.jpg" alt="Some PayUp App Screens" width="1000">
+Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Walkthrough to Create a Group).
 </p>
-<br></br>
 
 ## Project Summary
 
@@ -15,48 +13,50 @@ We designed PayUp; a mobile app to manage shared expenses, receive and pay debts
 
 To tackle this challenge we mapped out the following strategy:
 
-- Ideation and Problem Definition
+- **Ideation and Problem Definition**
   - Elevator Pitch
   - Business Model Canvas
   - Value Proposition Canvas
-- Research and Strategy
+- **Research and Strategy**
   - Bibliographical Research
   - Technical Documentation Analysis
+  - Expert Interview
   - Benchmarking
   - Online Surveys
   - Interviews (with potential end users)
-  - Expert Interview
   - Personas
   - User and Job Stories
-- Interaction Design
+- **Interaction Design**
   - Functional Requirements Analysis
   - Information Architecture
   - Content Strategy
   - Wireflows
   - User Feedback Rounds 🔁
-- Visual Design
+- **Visual Design**
   - Branding
   - Mockups
   - User Feedback Rounds 🔁
-- Prototyping
+- **Prototyping**
   - Product Requirements Document
   - Prototype (MVP)
   - User Feedback Rounds 🔁
-- Presentation
+- **Presentation**
   - Pitch Deck and Live Demo
   - Project Report
 
 Even though all team members were involved in all project phases, we each chose a main user flow to work on. I was responsible for designing the flow to create a group to share expenses and add an expense to that group.
+
 ***
 
 👉 PayUp App InVision Partial Prototype https://filipago.github.io/payup-app-prototype
 
 **Create a Group and Add an Expense User Flows:**
 
-- Bot Walk Through version (conversational)
-- Power User version (chatbot)
+1. Bot Walk Through version (conversational)
+2. Power User version (chatbot)
 
 Lília tackled the flow for creating an account for a new user and Marta worked on sending money to a friend (making a payment).
+
 ***
 
 ## Context and Challenge (Ideation)
@@ -67,39 +67,31 @@ With the increasing digitalization of our society, consumers’ habits and expec
 
 Millennials are busy bees and have very active social lives. They need a more efficient way to manage shared expenses and pay their friends without worrying about doing the math or knowing IBAN numbers.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/problem.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/problem.jpg" alt="Problems that PayUp wants to solve" width="1000">
 </p>
-<br></br>
 
 PayUp is a mobile app that allows them to split and keep track of shared expenses, pay and collect debts among friends, easily, swiftly and safely, without the need to expose banking information.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/solution.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/solution.jpg" alt="Our Solution" width="1000">
 </p>
-<br></br>
 
 PayUp is readily available, anywhere, all the time, to quickly and effortlessly manage splitting costs without estimates, avoid lack of change, having the right amount, or having to know the recipient’s banking data to make a payment. All that is needed is a mobile phone number or an email address.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bmc.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bmc.jpg" width="1000" alt="PayUp's Business Model Canvas">
 Our Business Model Canvas…
 </p>
-<br></br>
 
 The entry into force in 2018 of the new European Payment Services Directive (PSD2) creates the ideal operating conditions for the development of a product like PayUp, operated by a non-banking Fintech (PISP - Payment Initiation Service Provider).
 
 By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/vpc.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/vpc.jpg" alt="Some PayUp's Value Proposition" width="1000">
 Our Value Proposition...
 </p>
-<br></br>
 
 So our **elevator pitch** went something like this:
 
@@ -111,12 +103,10 @@ We followed a LEAN methodology throughout this project. Our primary focus was al
 
 Whenever possible, everything was tested with real users; mostly colleagues, trainers and friends. Their feedback was essential to the evolution of the design.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/lean.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/lean.jpg" alt="Lean Methodology by FlowCon" width="1000">
 Lean Methodology by FlowCon.
 </p>
-<br></br>
 
 The development of the project went through 3 major phases:
 
@@ -126,10 +116,10 @@ We wanted to make sure that splitting and managing shared expenses, as well as c
 
   * Bibliographical Research
   * Technical Documentation Analysis
+  * Expert Interview
   * Benchmarking
   * Online Surveys
   * Interviews (with potential end users)
-  * Expert Interview
   * Personas
   * User and Job Stories
 
@@ -158,15 +148,15 @@ We designed all visual aspects concerning the product, from branding to high-fid
 
 Our research plan was kickstarted by five central questions:
 
-1. What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service?
+__1.__ What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service?
 
-2. Who are our competitors? What are the market trends?
+__2.__ Who are our competitors? What are the market trends?
 
-3. How does our target audience split expenses?
+__3.__ How does our target audience split expenses?
 
-4. Which factors influence them the most when choosing a payment/transfer service?
+__4.__ Which factors influence them the most when choosing a payment/transfer service?
 
-5. Which pain points are they facing and how can we fix them?
+__5.__ Which pain points are they facing and how can we fix them?
 
 Answering these questions was pivotal to assure we were building a true user centric product that would effectively solve a real problem.
 
@@ -175,17 +165,16 @@ To answer our research questions we used the following research methods:
 
 | #       | Research Questions | Research Methods |
 | :-----: | --------- | ---------------- |
-| **1** | What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service? | - Bibliographical research;<br/>Technical documentation analysis (Directives, Rulebooks, Regulations);<br/>- Interviews with banking experts. |
-| **2** | Who are our competitors? What are the market trends? | - Analysis on previous sector reports / Market research (Ex: SIBS Market Report 2016);<br/>- Benchmarking (researching our direct and indirect competitors in order to analyze its’ strengths, weaknesses and possible improvements). |   
-| **3** | How does our target audience split expenses? | - Online surveys;<br/> - Interviews with potential end users. |    
-| **4** | Which factors influence them the most when choosing a payment/transfer service? | - Online surveys;<br/> - Interviews with potential end users. |    
+| **1** | What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service? | - Bibliographical research;<br/> - Technical documentation analysis (Directives, Rulebooks, Regulations);<br/>- Interviews with banking experts. |
+| **2** | Who are our competitors? What are the market trends? | - Analysis on previous sector reports / Market research (Ex: SIBS Market Report 2016);<br/>- Benchmarking (researching our direct and indirect competitors in order to analyze its’ strengths, weaknesses and possible improvements). |
+| **3** | How does our target audience split expenses? | - Online surveys;<br/> - Interviews with potential end users. |
+| **4** | Which factors influence them the most when choosing a payment/transfer service? | - Online surveys;<br/> - Interviews with potential end users. |
 | **5** | Which pain points are they facing and how can we fix them? | - Online surveys;<br/> - Interviews with potential end users. |
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/research.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/research.jpg" alt="Research Numbers" width="1000">
 </p>
-<br></br>
 
 ### Documentary Research and Analysis
 
@@ -195,11 +184,9 @@ You can [download our bibliography here]( https://github.com/FilipaGo/payup-app-
 
 The new European Payment Services Directive (PSD2), which becomes applicable on January 13th 2018, is what enables the rising of a product like PayUp.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/psd2.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/psd2.jpg" alt="PSD2 Scheme" width="1000">
 </p>
-<br></br>
 
 All EU banks are obliged to comply with this directive by September 2019, and make open APIs available to any Payment Initiation Service Provider (PISP) — that’s us! 💪
 
@@ -249,29 +236,23 @@ Just to make it perfectly clear... the payer is the person who sends the money a
 * PISP Fees (if any);
 * Transaction date.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_fav-payment-method.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_fav-payment-method.jpg" alt="SIBS Market Report — Preferred payment method" width="1000">
 </p>
-<br></br>
 
 SIBS carried out a study with the goal of understanding how the Portuguese use different payment methods, find out which ones are the most common and how they are used by consumers with different profiles and in different environments. With this analysis, SIBS also tried to identify trends in the adoption of new and emerging payment methods, as well as any barriers to its adoption.
 
 The market study shows that most Portuguese internet users prefer making purchases with electronic payment methods, both online and in physical stores. The same holds true when making payments to friends and family or paying invoices.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-factors.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-factors.jpg" alt="SIBS Market Report — Relevance of the various factors of choice on P2P payments" width="1000">
 </p>
-<br></br>
 
 In this report, SIBS anticipates a rapid migration from cash to electronic payments, as consumers become more and more familiar with the technology and because people mostly value convenience and speed when choosing a payment method for P2P transactions.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-method-amount.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-method-amount.jpg" alt="SIBS Market Report — Most used payment method for making payments, by owned amount" width="1000">
 </p>
-<br></br>
 
 Cash is still the most used payment method when paying for small amounts.
 
@@ -279,12 +260,22 @@ As PayUp facilitates making payments to family and friends, allowing the user to
 
 Payments of small amounts among friends are an important opportunity to capture new electronic transactions.
 
+### Expert Interview
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/interview_specialist.jpg" alt="Expert Interview Details" alt="Expert Interview details" width="1000">
+Expert Interview's details.
+</p>
+
+We managed to interview an expert in order to consolidate the knowledge we had gained from the analysis of the documentation on electronic payments in the EU.
+
+If you want to check out the whole interview, [download the pdf here](https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/entrevista_especialista.pdf "Expert Interview").
+
 ### Benchmarking
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" width="650" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" alt="Benchmarking product's logos" width="650">
 </p>
-<br></br>
 
 We analyzed **16 products** that allow sending transfers/payments to contacts, request the payment of a debt and/or organize joint expenses, using a mobile phone number and/or an email.
 
@@ -299,18 +290,16 @@ We analyzed **16 products** that allow sending transfers/payments to contacts, r
 
 **9 out of 16 products are available in Portugal** and of these, 2 are only available in Portugal.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_table02.jpg" alt="Benchmarking Table detail" width="1000">
 Benchmarking Table detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking.pdf">download the Benchmarking Analysis here</a> and <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking_findings.pdf">our Findings there</a>.
 </p>
-<br></br>
 
 The Benchmarking analysis allowed us to infer some of **PayUp’s competitive advantages**.
 
 Most products usually target a single functional area: payments (P2P transfers) or splitting expenses — **PayUp targets both**.
 
-6 out of 9 products available in Portugal allow the user to make payments. 3 out of 9 products only allow the user to manage splitting expenses and creating groups or events to add expenses.
+Only **9 out of 16 products are available in Portugal**. 6 out of these 9, allow the user to make payments. 3 out of 9 products only allow the user to manage splitting expenses and creating groups or events to add expenses.
 
 Only 2 out of 9 allow the user to request the payment of expenses and share them, albeit to a limited extent.
 
@@ -320,13 +309,13 @@ Transfers made between wallet accounts are always free, however, cash-in transac
 
 Transfers made from the bank account associated with the debit card, even if not charged by the product being used, may incur costs for the user, depending on their bank.
 
-In the vast majority of cases, most transfers made from the credit card are charged.
+In the vast majority of cases, **most transfers made from the credit card are charged**.
 
 At this stage, all Verse transactions are free of charge and Venmo makes free transfers from the bank account associated with the debit card or from another bank account, stating that it supports the costs that may be charged by the user's bank.
 
 In the vast majority of cases, cash-out operations are free although there are circumstances where immediate cash-out is charged.
 
-The sources of income of these products are quite varied, standing out among them the revenues coming from:
+The **sources of income** of these products are quite varied, standing out among them the revenues coming from:
 
 * Advertising;
 * Trading commissions charged to merchants and customers;
@@ -339,12 +328,10 @@ Splitwise's business model does not imply the generation of revenue from users. 
 
 A significant number of the apps we checked are geographically limited, some of which operate exclusively in the USA — **PayUp's MVP covers the national territory (Portugal), but in a second phase it will expand to Europe and in a third one, it will cover low banking territories**.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_venn.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_venn.jpg" width="1000">
 PayUp’s sectoral competitors.
 </p>
-<br></br>
 
 With the previous assumptions set forth and taking into account that PayUp intends to cover the entire value chain, we identified the following primary sectoral competitors:
 
@@ -360,29 +347,25 @@ Currently, Verse has a great competitive advantage, as it is completely free of 
 
 Caixa Plim is only available to Caixa Geral de Depositos' bank clients...
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/value_curves.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/value_curves.jpg" width="1000">
 Value Curves.
 </p>
-<br></br>
 
-PayUp's great advantage will be the integration of both functional areas, allowing the user to split expenses, settle the bills and pay for them.
+**PayUp's great advantage will be the integration of both functional areas, allowing the user to split expenses, settle the bills and pay for them.**
 
 Although Venmo could have the potential to be a major competitor, we are not considering it as it operates exclusively in the US market.
 
 ### Online Surveys
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_g-forms.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_g-forms.jpg" alt="Google Form detail (screenshots)" width="1000">
 Our Google Form (details).
 </p>
-<br></br>
 
-We used accidental sampling (selection by convenience or opportunity) on our surveys, which is a type of nonprobability sampling that involves the sample being drawn from a part of the population which is close to hand. That is, the sample was selected because it was readily available and convenient.
+We used **accidental sampling** (selection by convenience or opportunity) on our surveys, which is a type of nonprobability sampling that involves the sample being drawn from a part of the population which is close to hand. That is, the sample was selected because it was readily available and convenient.
 
-Our criteria for selecting elements was based on assumptions regarding the population of interest, therefore, we could not make generalizations about the total population from this sample because it wasn’t representative enough.
+Our criteria for selecting elements was based on assumptions regarding the population of interest, therefore, **we could not make generalizations about the total population from this sample** because it wasn’t representative enough.
 
 But even though the sample wasn’t fully representative of our segment and didn’t allow us to draw real conclusions, it did allow us to **generate hypotheses and insights** as well as test the questions to be asked during the interviews.
 
@@ -398,21 +381,17 @@ But even though the sample wasn’t fully representative of our segment and didn
 * What pain points are they experiencing?
 (…)
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_script01.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_script01.jpg" alt="Survey script details" width="1000">
 Our Online Survey Script. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/surveys_script.pdf" >download the full script here</a>.
 </p>
-<br></br>
 
 To generate insights into these, we started out by designing a script that could be readily available online.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_table.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_table.jpg" alt="Survey data analysis detail. Excel screenshot" width="1000">
 Survey Data Analysis detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/inqueritos_analise_v06.xlsx" >download the full analysis here</a>.
 </p>
-<br></br>
 
 We managed to get a **sample of 100** people over 4 days, who kindly accepted to help us out.
 
@@ -420,12 +399,10 @@ We managed to get a **sample of 100** people over 4 days, who kindly accepted to
 
 91% of respondents had a smartphone. The majority felt comfortable using it and 88% also used mobile apps on a regular basis.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_expenses.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/survey_expenses.jpg" alt="Survey data analysis detail. Excel screenshot" width="1000">
 61% of respondents share expenses. Of those, 85% use online payments.
 </p>
-<br></br>
 
 The **key findings** from the online surveys were:
 
@@ -442,47 +419,38 @@ The **key findings** from the online surveys were:
 * Splitting bills (who pays for what), the immediacy of payment and forgetfulness are the problems that were most often identified when sharing expenses;
 * Most respondents usually register expenses on paper and is satisfied using this method.
 
-### Interviews
+### Potential User Interviews
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/interviews.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/interviews.jpg" alt="Interviews' notes (detail)" width="1000">
 Potential End Users' Interviews' notes. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/entrevistas_utilizadores.xlsx" >download the notes here</a>.
 </p>
-<br></br>
 
 We conducted **10 interviews** in order to understand the behaviour of people who frequently share expenses and therefore are potential end users of our product.
 
 Respondents said that when they decide to pay with cash, it is not because they think it is the best method, it's because they are with the people to whom they have to pay (opportunity). But the lack of having the right amount and change can complicate the process a lot.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_01.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_01.jpg" alt="Interview quote by Ana Marta Pires, 21 years old — When we have a dinner party with lots of people; someone buys this and someone else buys that... it's hard to manage how much everyone owes. Especially when we lose the bill... it has happened!" width="1000">
 </p>
-<br></br>
 
 Most problems that arise from splitting expenses happen when people have to pay for different things with different values, making it hard to manage how much each one owes. In addition, it was mentioned that there are people who forget that they owe money and that having to remind them several times can be annoying and embarrassing.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_02.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_02.jpg" alt="Interview quote by Tânia Morais, 23 years old — There is always someone who fails to pay or pretends that he doesn't owe anything" width="1000">
 </p>
-<br></br>
 
 Two respondents use PayPal and enjoy the app, but they said they never used it to make transfers; only for online purchases.
 
 One of the interviewees mentioned that he doesn't use PayPal for transfers because he doesn't know which of his friends subscribed to the service. He also thinks that in order to make transfers, he has to know his friends' usernames.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_03.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_03.jpg" alt="Interview quote by Ricardo Costa, 35 years old — The problems arise when we don't have money readily available or change. It’s difficult because someone has to do the math. It requires concentration at moments that are supposed to be fun." width="1000">
 </p>
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/count.gif" width="100" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/count.gif" alt="Millennial guy using his fingers to count" width="100">
 </p>
-<br></br>
 
 The **main pain points** identified by the interviewees were:
 
@@ -493,11 +461,9 @@ The **main pain points** identified by the interviewees were:
 * Remind/communicate with those who have to pay;
 * Lack of banking details to make a payment.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_04.jpg" width="1000" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_04.jpg" alt="Interview quote by João Silva, 37 years old — I wish there was a way I could pay immediately, knowing only the phone number. I would pick a contact, enter the amount and OK!" width="1000">
 </p>
-<br></br>
 
 The **main needs** perceived over the interviews were:
 
@@ -512,27 +478,23 @@ The **main needs** perceived over the interviews were:
 
 ### Personas
 
-Research helped us confirm that our target audience is the Millennials — young people aged between 18 and 37, with a medium to higher education, single, residing in large urban centres and who are very familiar with the new technologies. They are the generation of sharing and usually live with their parents or share a house with friends.
+Research helped us confirm that **our target audience is the Millennials** — young people aged between 18 and 37, with a medium to higher education, single, residing in large urban centres and who are very familiar with the new technologies (tech-savvy). They are the generation of sharing and usually live with their parents or share a house with friends.
 
-<br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/millennials.gif" width="240" />
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/millennials.gif" alt="Excited Millennials using their mobile phones" width="240">
 </p>
+
 There are about 2 321 806 Millennials in Portugal (that's our initial market size!). Source: Pordata
-<br></br>
 
-From our documental research, survey analysis and interviews with potential users, we defined 2 personas for the main user-flows.
-
-<br></br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" width="1000" /> Meet Joana...
-</p>
-<br></br>
+From our documental research, survey analysis and interviews with potential users, we defined 2 main personas for the user-flows.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_leonor.jpg" width="1000" /> And Maria Leonor!
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" alt="Main persona Joana Antunes" width="1000"> Meet Joana...
 </p>
-<br></br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_leonor.jpg" alt="Main persona Maria Leonor" width="1000"> And Maria Leonor!
+</p>
 
 To attend our users' needs, our product should focus on registering and calculating shared expenses, and on the payment and collection of debts.
 
