@@ -171,7 +171,6 @@ To answer our research questions we used the following research methods:
 | **4** | Which factors influence them the most when choosing a payment/transfer service? | - Online surveys;<br/> - Interviews with potential end users. |
 | **5** | Which pain points are they facing and how can we fix them? | - Online surveys;<br/> - Interviews with potential end users. |
 
-<br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/research.jpg" alt="Research Numbers" width="1000">
 </p>
