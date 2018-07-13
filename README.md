@@ -495,7 +495,7 @@ From our documental research, survey analysis and interviews with potential user
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_leonor.jpg" alt="Main persona Maria Leonor" width="1000"> And Maria Leonor!
 </p>
 
-To attend our users' needs, our product should focus on registering and calculating shared expenses, and on the payment and collection of debts.
+To attend to our users' needs, our product should focus on registering and calculating shared expenses, and on the payment and collection of debts.
 
 Full Case Study Coming Soon 🚧
 
