@@ -194,7 +194,7 @@ This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ P
 
 A PISP is a Service Provider that initiates a payment order (transfer), at the request of the user, relative to an account that is held by another Payment Services Provider (like a bank or SIBS, in Portugal).
 
-Being a PISP, we must comply with a set of obligations:
+Being a PISP, we must comply with a set of **obligations**:
 
 * We may not, at any time, hold the payer's funds;
 * We must ensure that the user's custom security credentials are not accessible by other
