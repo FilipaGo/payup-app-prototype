@@ -485,7 +485,11 @@ Research helped us confirm that **our target audience is the Millennials** — y
 
 <p align="center">There are about 2 321 806 Millennials in Portugal (that's our initial market size!). Source: Pordata</p>
 
-From our documental research, survey analysis and interviews with potential users, we defined **2 main personas** for the user-flows.
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/personas.jpg" alt="Our personas" width="1000"> Full size personas can be seen [here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/personas "Check them out")...
+</p>
+
+From our documental research, survey analysis and interviews with potential users, we defined 4 personas. **2 main personas** were used for the user-flows (Joana and Maria Leonor... Personally, I stuck with Joana).
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" alt="Main persona Joana Antunes" width="1000"> Meet Joana...
