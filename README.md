@@ -29,7 +29,6 @@ To tackle this challenge we mapped out the following strategy:
 - **Interaction Design**
   - Functional Requirements Analysis
   - Information Architecture
-  - Content Strategy
   - Wireflows
   - User Feedback Rounds 🔁
 - **Visual Design**
@@ -129,7 +128,6 @@ We defined the user flows of the different personas, the information architectur
 
   * Functional Requirements Analysis
   * Information Architecture
-  * Content Strategy
   * Wireflows
   * User Feedback Rounds 🔁
 
