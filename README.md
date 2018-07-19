@@ -513,6 +513,14 @@ This structure was a useful tool to boost our creativity and to communicate our 
 
 ### Functional Requirements Analysis
 
+Using all the information gathered during research, we kickstarted the Interaction Design phase by listing all the functional requirements we thought were important for our product.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/requirements.jpg" alt=" Functional Requirements Listing" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/requisitos_funcionais.pdf">download the full analysis here</a>.
+</p>
+
+Also, the list would be most helpful when designing the information architecture and the wireflows.
+
 Full Case Study Coming Soon 🚧
 
 ***
