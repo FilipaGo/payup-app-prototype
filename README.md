@@ -51,7 +51,7 @@ Even though all team members were involved in all project phases, we each chose 
 
 **Create a Group and Add an Expense User Flows:**
 
-1. Bot Walk Through version (conversational)
+1. Bot Walkthrough version (conversational)
 2. Power User version (chatbot)
 
 Lília tackled the flow for creating an account for a new user and Marta worked on sending money to a friend (making a payment).
