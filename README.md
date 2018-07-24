@@ -574,7 +574,7 @@ I reduced the information requested by the bot to complete each task to a minimu
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allow the user to edit any data that has been filled incorrectly and add additional information like a photo or a receipt.
 </p>
 
-You can [take a look at the wireflows here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out the wireflows!")
+You can [take a look at the wireflows here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out the wireflows!").
 
 Full Case Study Coming Soon 🚧
 
