@@ -516,10 +516,65 @@ This structure was a useful tool to boost our creativity and to communicate our 
 Using all the information gathered during research, we kickstarted the Interaction Design phase by listing all the functional requirements we thought were important for our product.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/requirements.jpg" alt=" Functional Requirements Listing" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/requisitos_funcionais.pdf">download the full analysis here</a>.
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/requirements.jpg" alt="Functional Requirements Listing" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/requisitos_funcionais.pdf">download the full analysis here</a>.
 </p>
 
 Also, the list would be most helpful when designing the information architecture and the wireflows.
+
+### Wireflows
+
+To better communicate our design ideas, we developed wireflows for the two main personas. Combining wireframes and user flows let us document the workflow and screen designs more clearly.
+
+**Joana Antunes** :
+- Login; (Me ✅)
+- Create a group to share expenses and add an expense to that group; (Me ✅)
+- Send a payment; (Marta)
+
+**Maria Leonor**:
+- Onboarding a new user; (Lilia)
+- Add a bank card. (Lilia)
+
+Using screen designs instead of abstract flowchart symbols kept us focused on the product, making it easier to design how the users interact with the app when performing common tasks.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing a bit of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
+</p>
+
+There are 3 important assumptions underlying these user flow proposals:
+
+The increasing popularity of messaging apps among millennials using digital products makes us think that conversational, dialogue-based interfaces are the future, as they are intuitive, fast and familiar.
+
+“Digital personal assistants” with artificial intelligence, semantic search capability, and natural language processing are rapidly evolving and are already available in different stages of development and sophistication, across a wide range of platforms. For example Siri, Google Now, Cortana, Amazon Alexa and, on another level, applications based on IBM's Watson cognitive platform.
+
+Interacting with an unknown interface can be frustrating and complex. A chatbot is simpler, more personal, more human.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v01.jpg" alt="Part of Joana’s user flow version 1" width="1000">Some screens from the first version of Joana’s user flow to create a group to share expenses.
+</p>
+
+My wireframes went through 3 major iterations (revisions) to simplify and optimize the user’s task flow. I also refined the bot’s dialogues, personality and tone of voice, and fine-tuned the visual hierarchy and components of the main screens.
+
+The user flow’s first version turned out too tiresome and long. It required the user to enter every detail that could be set up when creating a group and adding an expense. It was all built around the idea of a messaging app.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_walkthrough.jpg" alt="Part of Joana’s user flow version 3" width="1000">Some screens from the third version (walkthrough mode).
+</p>
+
+The last wireflows’ version has a completely redesigned main navigation and a quick action menu that the user can access through a floating action button. This FAB allows him to choose one of the 4 common tasks that can be accomplished with PayUp (create a group, add an expense, send money and request money), thus following a pre-determined path presented in a conversational way (walkthrough mode), as well as enter a power user mode that enables him to write quick instructions for the task he wants to complete.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_power-user.jpg" alt="Part of Joana’s user flow version 3" width="1000">Some screens from the third version (power user mode).
+</p>
+
+In power user mode, the bot only asks for the missing information that is strictly necessary to perform the task successfully. In this case, creating a group and adding an expense to that group.
+
+I reduced the information requested by the bot to complete each task to a minimum, in both modes (walkthrough and power user). Optionally, the user can add more details at the last step, through the edit screens.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allow the user to edit any data that has been filled incorrectly and add additional information like a photo or a receipt.
+</p>
+
+You can [take a look at the wireflows here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out the wireflows!")
 
 Full Case Study Coming Soon 🚧
 
