@@ -511,6 +511,8 @@ This structure was a useful tool to boost our creativity and to communicate our 
 
 ## Interaction Design
 
+Our central goal at this stage was achieving a clear and intuitive interface.
+
 ### Functional Requirements Analysis
 
 Using all the information gathered during research, we kickstarted the Interaction Design phase by listing all the functional requirements we thought were important for our product.
@@ -540,7 +542,7 @@ Using screen designs instead of abstract flowchart symbols kept us focused on th
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing a bit of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
 </p>
 
-There are 3 important assumptions underlying these user wireflow proposals:
+There are 3 important assumptions underlying these wireflow proposals:
 
 The increasing popularity of messaging apps among millennials using digital products makes us think that conversational, dialogue-based interfaces are the future, as they are intuitive, fast and familiar.
 
@@ -574,7 +576,15 @@ I reduced the information requested by the bot to complete each task to a minimu
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allow the user to edit any data that has been filled incorrectly and add additional information like a photo or a receipt.
 </p>
 
-You can [take a look at the wireflows here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out the wireflows!").
+Given time constraints, designing the full app was out of scope for this project.
+
+My main focus was designing the user flow for creating a group, but I also worked on some extra screens to help us convey the full product plan.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_extras.jpg" alt="Wireflows’ extra screens" width="1000">I worked on the group screens, history and settings.
+</p>
+
+You can [take a look at the wireflows I worked on here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out my wireflows!").
 
 Full Case Study Coming Soon 🚧
 
