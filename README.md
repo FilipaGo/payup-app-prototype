@@ -531,7 +531,7 @@ To better communicate our design ideas, we developed wireflows for the two main 
 - Send a payment; (Marta)
 
 **Maria Leonor**:
-- Onboarding a new user; (Lilia)
+- Onboard a new user; (Lilia)
 - Add a bank card. (Lilia)
 
 Using screen designs instead of abstract flowchart symbols kept us focused on the product, making it easier to design how the users interact with the app when performing common tasks.
@@ -540,7 +540,7 @@ Using screen designs instead of abstract flowchart symbols kept us focused on th
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing a bit of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
 </p>
 
-There are 3 important assumptions underlying these user flow proposals:
+There are 3 important assumptions underlying these user wireflow proposals:
 
 The increasing popularity of messaging apps among millennials using digital products makes us think that conversational, dialogue-based interfaces are the future, as they are intuitive, fast and familiar.
 
