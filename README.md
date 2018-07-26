@@ -7,7 +7,7 @@ Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Wa
 
 ## Project Summary
 
-Project developed with Lília Correia and Marta Casal, under the Postgraduate Diploma in Digital Experience Design, which consisted in designing an interactive or semi-functional prototype of a digital product or service, following a user-centered approach.
+Project developed with Lília Correia and Marta Casal, under a Postgraduate Diploma in Digital Experience Design, which consisted in designing an interactive or semi-functional prototype of a digital product or service, following a user-centered approach.
 
 We designed PayUp; a mobile app to manage shared expenses, receive and pay debts, without the need to expose banking information. All you need is a mobile phone number.
 
@@ -43,7 +43,7 @@ To tackle this challenge we mapped out the following strategy:
   - Pitch Deck and Live Demo
   - Project Report
 
-Even though all team members were involved in all project phases, we each chose a main user flow to work on. I was responsible for designing the flow to create a group to share expenses and add an expense to that group.
+Even though all team members were involved in all project phases, we each chose a main user flow to work on. **I was responsible for designing the flow to create a group to share expenses and add an expense to that group**.
 
 ***
 
@@ -51,8 +51,8 @@ Even though all team members were involved in all project phases, we each chose 
 
 **Create a Group and Add an Expense User Flows:**
 
-1. Bot Walkthrough version (conversational)
-2. Power User version (chatbot)
+1. Bot Walkthrough mode (conversational)
+2. Power User mode (chatbot)
 
 Lília tackled the flow for creating an account for a new user and Marta worked on sending money to a friend (making a payment).
 
@@ -94,7 +94,7 @@ Our Value Proposition...
 
 So our **elevator pitch** went something like this:
 
-> Our goal in creating PayUp is to help Millennials solve problems with splitting and tracking shared expenses, collecting and paying off debts among friends, by developing a mobile app that is better than MB WAY, Verse and Splitwise because it integrates into a single product the possibility to send or receive instant payments at any time, in a fast and easy way, without the need to disclose banking information, as well as track shared expenses.
+> Our goal in creating PayUp is to help Millennials solve problems with splitting and tracking shared expenses, collecting and paying off debts among friends, by developing a mobile app that is better than MB WAY, Verse and Splitwise because it integrates into a single product the possibility to send and receive instant payments at any time, in a fast and easy way, without the need to disclose banking information, as well as track shared expenses.
 
 ## Methodology
 
@@ -525,7 +525,7 @@ Also, the list would be most helpful when designing the information architecture
 
 ### Wireflows
 
-To better communicate our design ideas, we developed wireflows for the two main personas. Combining wireframes and user flows let us document the workflow and screen designs more clearly.
+To better communicate our design ideas, we developed wireflows for the two main personas. Combining wireframes and user flows let us outline the workflow and screen designs more clearly.
 
 **Joana Antunes** :
 - Login; (Me ✅)
@@ -537,6 +537,8 @@ To better communicate our design ideas, we developed wireflows for the two main 
 - Add a bank card. (Lilia)
 
 Using screen designs instead of abstract flowchart symbols kept us focused on the product, making it easier to design how the users interact with the app when performing common tasks.
+
+The wireflows enabled us to quickly test ideas without diving too much into the details.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing a bit of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
