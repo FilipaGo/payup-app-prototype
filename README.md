@@ -501,13 +501,13 @@ To attend to our users' needs, our product should focus on registering and calcu
 
 ### User and Job Stories
 
-We linked our user and job stories to our personas in order to frame our users. Our goal was to empathize with them and hopefully design useful and purposeful solutions.
+We linked our user and job stories to our personas in order to frame our users and understand what they are trying to accomplish. Our goal was to empathize with them and hopefully design useful and purposeful solutions.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/user-job-stories.jpg" alt="Excel spreadsheet showing part of our user and job stories" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/user_and_job-stories_v02.xlsx">download the stories here</a>.
 </p>
 
-This structure was a useful tool to boost our creativity and to communicate our users’ motivations and desired outcomes more easily.
+This structure was a useful tool to boost our creativity, communicate our users’ motivations and desired outcomes more easily, and shape our product to fulfill the users' needs.
 
 ## Interaction Design
 
