@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_comp.jpg" alt="Some PayUp App Screens" width="1000">
-Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Walkthrough to Create a Group).
+Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Walkthrough to create an expense sharing group).
 </p>
 
 ## Project Summary
@@ -264,7 +264,7 @@ Payments of small amounts among friends are an important opportunity to capture 
 Expert Interview's details.
 </p>
 
-We managed to interview an expert in order to consolidate the knowledge we had gained from the analysis of the documentation on electronic payments in the EU.
+We managed to interview an expert in order to cement the knowledge we gained from the analysis of the documentation on electronic payments in the EU.
 
 If you want to check out the whole interview, [download the pdf here](https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/entrevista_especialista.pdf "Expert Interview").
 
@@ -292,7 +292,7 @@ We analyzed **16 products** that allow sending transfers/payments to contacts, r
 Benchmarking Table detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking.pdf">download the Benchmarking Analysis here</a> and <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/benchmarking_findings.pdf">our Findings there</a>.
 </p>
 
-The Benchmarking analysis allowed us to infer some of **PayUp’s competitive advantages**.
+**The Benchmarking analysis allowed us to infer some of PayUp’s competitive advantages**.
 
 Most products usually target a single functional area: payments (P2P transfers) or splitting expenses — **PayUp targets both**.
 
@@ -300,7 +300,7 @@ Most products usually target a single functional area: payments (P2P transfers) 
 
 Only 2 out of 9 allow the user to request the payment of expenses and share them, albeit to a limited extent.
 
-Some companies' business models point to significant costs for the user in at least some specific circumstances — **PayUp aims to reduce these costs to a minimum**.
+Some companies' business models point to significant costs for the user in at least some specific circumstances — **PayUp will downsize these costs to a minimum.**
 
 Transfers made between wallet accounts are always free, however, cash-in transactions for the wallet account may have significant costs for the user.
 
@@ -572,7 +572,7 @@ The last wireflows’ version has a completely redesigned main navigation and a 
 
 In power user mode, the bot only asks for the missing information that is strictly necessary to perform the task successfully. In this case, creating a group and adding an expense to that group.
 
-I reduced the information requested by the bot to complete each task to a minimum, in both modes (walkthrough and power user). Optionally, the user can add more details at the last step, through the edit screens.
+I shortened the information requested by the bot to complete each task to a minimum, in both modes (walkthrough and power user). Optionally, the user can add more details at the last step, through the edit screens.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allow the user to edit any data that has been filled incorrectly and add additional information like a photo or a receipt.
@@ -588,8 +588,123 @@ My main focus was designing the user flow for creating a group, but I also worke
 
 You can [take a look at the wireflows I worked on here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out my wireflows!").
 
-Full Case Study Coming Soon 🚧
+## Visual Design
+
+### Branding and Identity
+
+We worked on developing a modern and friendly visual identity, that fit our target.
+
+We settled a base colour palette with two shades of blue and purple, trying to harmonize the app and the website's look and feel. Additionally, we used grey for the text and a great deal of light tones to keep the interface clean.
+
+Being the colour associated with technology, Blue represents trust, wisdom, confidence and stability. It has positive effects on the mind and body and can cause it to produce chemicals that radiate calm and tranquillity.
+
+We went for a darker blue and a brighter blue on the app. A corporate darker blue that exudes stability, honesty and trustworthiness, balances out the brighter blue's engaging and dynamic hue.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/logo.jpg" alt="PayUp logo" width="1000">
+</p>
+
+We based the logo design on 3 concepts that were primary in this project:
+
+* sharing
+* friendship/closeness
+* uprightness
+
+The logo was vaguely inspired by the symbol we currently use for sharing. It plays with straight lines and plans that intersect and form shared points of contact.
+
+It inverts, entangles and expands the original symbol, creating a recognizable uppercase P.
+
+We used purple on the logo because it embodies transformation, and PayUp can definitely change the way we share and split expenses.
+
+### Mockups
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_sketch.jpg" alt="Sketch document showing a couple of PayUp app screens" width="1000">
+</p>
+
+We designed high-fidelity mockups to communicate in a more realistic way the look and feel of our MVP.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_login.jpg" alt="PayUp app login screens" width="1000">PayUp's intro screens and login.
+</p>
+
+I tweaked and polished all the screens needed for the user flow I was working on, both in walkthrough and power user mode, as well as the login, groups, history and settings.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_home.jpg" alt="PayUp app home screen and bot menu" width="1000">PayUp's Home screen and action's menu.
+</p>
+
+The Home screen shows an overview of the user's recent activity, how much he owes, how much he is own, and the current balance.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_walkthrough.jpg" alt="PayUp app screens in walkthrough mode" width="1000">Some PayUp screens showing details from the flow to create a group and add an expense (walkthrough mode).
+</p>
+
+I was fairly pleased with how the wireflows had turned out. In the mockups phase, I mainly focused on making minor changes to some interface elements, working on the illustrations and further improving the copy. Highly important in an app like PayUp!
+
+**In walkthrough mode, the user can achieve his goal in 4 easy steps:**
+
+*	Enter group name;
+*	Choose participants;
+*	Enter expense amount;
+*	Add a description.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_power-user.jpg" alt="PayUp app screens in power user mode" width="1000">Some PayUp screens showing the flow to create a group and add an expense (power user mode).
+</p>
+
+**In power user mode, the number of steps will vary according to how much information the user provides at first.** The chatbot asks the questions needed to fill-in the information gaps.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_groups.jpg" alt="PayUp app groups' screens" width="1000">PayUp groups' screens.
+</p>
+
+The main groups' screen gives the user access to a listing of all the groups he belongs to. It can be filtered by all groups, only active groups, or only archived groups.
+
+By default, and in any case, the groups' list sorting should take into account the activity of each group (from the most active to the least active groups).
+
+The most relevant information of each group is on the first level and visible on the listing page (group name, debts and members).
+
+The group detail screen features a tabular navigation that allows the user to check in and edit the detailed information about the group and the expenses associated with it, as well as settle his group debts.
+
+## Prototyping
+
+I used InVision to connect the flow of all the screens I designed, show the functioning of the product and do some testing.
+
+Here's the link to my InVision prototype (**create a group and add an expense user flows**), both in **walkthrough and power user mode**:
+
+👉 https://filipago.github.io/payup-app-prototype
+
+I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented. This helped me grasp the app's flow and functionality on a deeper level.
+
+Given time constraints, I wasn't able to prototype all the screens with Principle, namely the power user's flow. But you can check the walkthrough mode!
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_demo.gif" alt="PayUp Principle Prototype" width="300">
+</p>
+
+**If you'd like to interact with the Principle prototype, go to this link** https://github.com/FilipaGo/payup-app-prototype-principle and follow the README instructions.
+
+The prototype can run on your Mac or iOS device.
+
+We ran out of time for extensive user testing but we did manage to run some tests with the same people we interviewed during research.
+
+**The feedback was quite positive and all users were able to quickly perform the tasks we asked them to complete.**
+
+> I can see the app targets a young audience. It solves many issues that are part of our daily life; from splitting travelling costs to tracking meal expenses. It solves a problem that is genuine and real. (Mariana Pisa, 22, Lisbon)
+
+All users highlighted that the app is very intuitive and simple to use.
+
+## Presentation
+
+The final presentation of the project was all about describing the problem we tried to solve and our solution, demonstrating and explaining our approach.
+
+We provided evidence, from real testimonies, that our product solves a real issue. We described the segment we are targeting, our estimated market size in Portugal, and what sets us apart from the competition. We also discussed our launching strategy and prospective revenue sources.
+
+In short, we tried to convey the efficiency, high availability and ease of use of our product.
+
+To learn more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
 
 ***
 
-If you'd like to know more about this project, [download the Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
+Full Case Study Coming Soon 🚧
