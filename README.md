@@ -487,7 +487,7 @@ Research helped us confirm that **our target audience is the Millennials** — y
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/personas.jpg" alt="Some of our personas" width="1000"> Full-size personas can be seen <a href="https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/personas">here</a>.
 </p>
 
-From our documental research, survey analysis and interviews with potential users, we defined 4 personas. **2 main personas** were used for the user-flows (Joana and Maria Leonor... Personally, I stuck with Joana).
+From our documental research, survey analysis and interviews with potential users, we defined 4 personas. **2 main personas** were used for the user flows (Joana and Maria Leonor... Personally, I stuck with Joana).
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" alt="Main persona Joana Antunes" width="1000"> Meet Joana...
@@ -533,8 +533,8 @@ To better communicate our design ideas, we developed wireflows for the two main 
 - Send a payment; (Marta)
 
 **Maria Leonor**:
-- Onboard a new user; (Lilia)
-- Add a bank card. (Lilia)
+- Onboard a new user; (Lília)
+- Add a bank card. (Lília)
 
 Using screen designs instead of abstract flowchart symbols kept us focused on the product, making it easier to design how the users interact with the app when performing common tasks.
 
@@ -705,6 +705,92 @@ In short, we tried to convey the efficiency, high availability and ease of use o
 
 To learn more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
 
+## Conclusion
+
+### What we Learnt
+
+Designing PayUp was a challenging ride. It was clear from the onset that our major challenges would be getting to know the business fast, learning to work as a cohesive team in a short period of time, and finding a value proposition that could make young millennials ditch cash for electronic payments.
+
+We studied the documentation and researched our competition. We understood our users' needs and pain points through the surveys and interviews. Finally, we faced the challenge of creating an engaging product that could give a great experience to our users and was also visually appealing.
+
+There were things we could have done better (there always are). But overall, given time constraints, we managed to deliver a polished MVP.
+
+### Next Steps
+
+* Finish up the MVP’s screens;
+* Full GDPR compliance (General Data Protection Regulation);
+* In-depth user research;
+* Extensive usability testing;
+* Improve the user flows;
+* Work on a profitable business model.
+
+### Roadmap
+
+A digital product is never final. We just worked on a preliminary MVP draft that could be ready to test and launch for early adopters.
+
+The following is our roadmap, with the phased launch of new features and product expansion. The time period between each launch should be of approximately 1 semester.
+
+**Release 1 (MVP):**
+* Sending a payment (instant P2P transfers);
+* Creating groups to share expenses;
+* Registering shared expenses;
+* Automatic calculation of debts and receivable amounts (“you owe”, “you are owed”);
+* Requesting a payment (“you are owed”);
+* Paying off debts (“you owe”);
+* Automatic notifications, alerts and payment reminders.
+
+**Release 2:**
+* Paying for purchases (merchants);
+* Developing a web app (making the MVP functionalities available in a web app environment).
+
+**Release 3:**
+* Making international transfers to accounts based in SEPA countries (Single Euro Payments Area);
+* Raising funds for future expenditure from discretionary amounts donated by participants (micro crowdfunding among friends).
+
+**Release 4:**
+* Making international transfers to accounts based in foreign countries outside SEPA, with a special focus on low banking countries.
+
+### Final Thoughts
+
+Using products like PayUp seems to make more sense every day since there are more and more motivations that justify it.
+
+From an economic perspective, the growing trend towards the dematerialization of payment methods seems unavoidable. We are increasingly seeing a decline in the use of “paper money” in favour of payment methods such as credit/debit cards and bank transfers.
+
+Nowadays, the transactions targeted by PayUp are typically settled with “cash”. PayUp can be an incentive for making these adjustments online, without using currency. This is beneficial for the user, because of its simplicity, speed and control, but also for financial entities, since it promotes the use of electronic transactions to the detriment of cash circulation. Electronic transactions entail much lower costs for Banks than their equivalent in cash.
+
+The promotion of our product, by interested entities of the financial system, will have an obvious side effect to their benefit. PayUp encourages users to a “more consistent” use of electronic payment methods and can induce them to adopt these with more regularity even outside our app. Leading people to a more systematic recurrence to home banking platforms will have positive effects on their respective financial entities. Not only by the direct increase of the revenue generated by these transactions but also by discouraging the direct attendance at the branches of the institutions, which have much higher costs for equivalent transactions.
+
+From a technological perspective, PayUp resorts to the latest evolutions in user interaction with an evolved “chatbot” that simplifies these interplays. PayUp uses “Natural Language” to minimize the effort required to accomplish a task, making use of advanced technological resources in “Cognitive Processing”.
+
 ***
 
-Full Case Study Coming Soon 🚧
+If you didn't check the prototypes yet, here are the links:
+
+👉 PayUp App InVision Prototype — https://filipago.github.io/payup-app-prototype (all the screens I designed, including extras like groups)
+
+**Create a Group and Add an Expense User Flows:**
+
+**1. Bot Walkthrough Mode (conversational)**
+* Login with email and password;
+* Access Bot (actions menu ➝ create a group — “Criar Grupo”);
+* Follow the steps to create a group to share expenses with Ana Sousa and Catarina Maia (select Ana Sousa from the contacts’ list and search for Catarina Maia);
+* Follow the steps to add an expense to that group;
+* Go back to the home screen.
+
+**2. Power User mode (chatbot)**
+* Login with email and password;
+* Access Bot (actions menu ➝ write naturally — “Escrever Naturalmente”);
+* Write what you want to do;
+* Fill in the information asked by the bot to create a group to share expenses with Ana Sousa and Catarina Maia;
+* Go back to the home screen.
+
+👉 PayUp App Principle Prototype — https://github.com/FilipaGo/payup-app-prototype-principle (follow the README instructions to install the prototype. It only runs on Mac and iOS)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bot-wave.gif" alt="Animated Bot waving" width="300"/>
+</p>
+<p align="center">
+Thank you for taking the time to read my case study.
+</p>
+
+A special thank you to my team, Lília Correia and Marta Casal, and our classmates and teachers for their invaluable feedback and support.
