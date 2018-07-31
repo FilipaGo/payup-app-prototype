@@ -682,9 +682,25 @@ The group detail screen features a tabular navigation that allows the user to ch
 
 I used InVision to connect the flow of all the screens I designed, show the functioning of the product and do some testing.
 
-Here's the link to my InVision prototype (**create a group and add an expense user flows**), both in **walkthrough and power user mode**:
+Here's the link to my InVision prototype, both in **walkthrough and power user mode** (create a group and add an expense user flows, plus the extra screens I designed, like groups):
 
 👉 https://filipago.github.io/payup-app-prototype
+
+**Create a Group and Add an Expense User Flows:**
+
+**1. Bot Walkthrough Mode (conversational)**
+* Login with email and password;
+* Access Bot (actions menu ➝ create a group — “Criar Grupo”);
+* Follow the steps to create a group to share expenses with Ana Sousa and Catarina Maia (select Ana Sousa from the contacts’ list and search for Catarina Maia);
+* Follow the steps to add an expense to that group;
+* Go back to the home screen.
+
+**2. Power User mode (chatbot)**
+* Login with email and password;
+* Access Bot (actions menu ➝ write naturally — “Escrever Naturalmente”);
+* Write what you want to do;
+* Fill in the information asked by the bot to create a group to share expenses with Ana Sousa and Catarina Maia;
+* Go back to the home screen.
 
 I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented. This helped me grasp the app's flow and functionality on a deeper level.
 
@@ -694,13 +710,13 @@ Given time constraints, I wasn't able to prototype all the screens with Principl
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_demo.gif" alt="PayUp Principle Prototype" width="300">
 </p>
 
-**If you'd like to interact with the Principle prototype, go to this link** https://github.com/FilipaGo/payup-app-prototype-principle and follow the README instructions.
+If you'd like **to interact with the Principle prototype, go to this link** 👉 https://github.com/FilipaGo/payup-app-prototype-principle and follow the README instructions on how to install.
 
-The prototype can run on your Mac or iOS device.
+This prototype can only run on your Mac or iOS device.
 
 We ran out of time for extensive user testing but we did manage to run some tests with the same people we interviewed during research.
 
-**The feedback was quite positive and all users were able to quickly perform the tasks we asked them to complete.**
+**The feedback was quite positive** and all users were able to quickly perform the tasks we asked them to complete.
 
 > I can see the app targets a young audience. It solves many issues that are part of our daily life; from splitting travelling costs to tracking meal expenses. It solves a problem that is genuine and real. (Mariana Pisa, 22, Lisbon)
 
@@ -777,7 +793,7 @@ From a technological perspective, PayUp resorts to the latest evolutions in user
 
 If you didn't check the prototypes yet, here are the links:
 
-👉 PayUp App InVision Prototype — https://filipago.github.io/payup-app-prototype (all the screens I designed, including extras like groups)
+👉 PayUp App InVision Prototype — https://filipago.github.io/payup-app-prototype (all the screens I designed, including extras, like groups)
 
 **Create a Group and Add an Expense User Flows:**
 
@@ -801,7 +817,7 @@ If you didn't check the prototypes yet, here are the links:
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bot-wave.gif" alt="Animated Bot waving" width="300"/>
 </p>
 <p align="center">
-Thank you for taking the time to read my case study.
+Thanks for taking the time to read the case study.
 </p>
 
 A special thank you to my team, Lília Correia and Marta Casal, and our classmates and teachers for their invaluable feedback and support.
