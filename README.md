@@ -726,7 +726,7 @@ I used Principle to emulate the micro-interactions in a more organic way and exp
 Given time constraints, I wasn't able to prototype all the screens with Principle, namely the power user's flow. But you can check the walkthrough mode!
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_demo.gif" alt="PayUp Principle Prototype" width="300">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_demo.gif" alt="PayUp Principle Prototype" width="250">
 </p>
 
 If you'd like **to interact with the Principle prototype, go to this link** 👉 https://github.com/FilipaGo/payup-app-prototype-principle and follow the README instructions on how to install.
