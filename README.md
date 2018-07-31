@@ -605,7 +605,7 @@ In power user mode, the bot only asks for the missing information that is strict
 I shortened the information requested by the bot to complete each task to a minimum, in both modes (walkthrough and power user). Optionally, the user can add more details at the last step, through the edit screens.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allow the user to edit any data that has been filled incorrectly and add additional information like a photo or a receipt.
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allows the user to edit any data that has been filled incorrectly and add more information like a photo or a receipt.
 </p>
 
 Given time constraints, designing the full app was out of scope for this project.
