@@ -3,11 +3,14 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/payup_comp.jpg" alt="Some PayUp App Screens" width="1000">
 Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Walkthrough to create an expense sharing group).
+<br></br>
 </p>
+
+📖 <i>`Estimated reading time: 26 minutes (6566 words)`</i>
 
 ## Project Summary
 
-Project developed with Lília Correia and Marta Casal, under a Postgraduate Diploma in Digital Experience Design, which consisted in designing an interactive or semi-functional prototype of a digital product or service, following a user-centered approach.
+Project developed with Lília Correia and Marta Casal, under a Postgraduate Diploma in Digital Experience Design, which consisted in designing an interactive or semi-functional prototype of a digital product or service, following a user-centred approach.
 
 We designed PayUp; a mobile app to manage shared expenses, receive and pay debts, without the need to expose banking information. All you need is a mobile phone number.
 
@@ -73,7 +76,7 @@ Lília tackled the flow for creating an account for a new user and Marta worked 
 
 With the increasing digitalization of our society, consumers’ habits and expectations have been rapidly changing. The trend of instant access to goods and services, mainly through mobile phones, has driven the growth of real-time payments, fast (instant) and simple.
 
-> Customers make increasingly use of these online and mobile channels to buy goods and services at anytime and anywhere. These developments contribute to the expectation for a faster (or real-time) finality and/or confirmation of the payment. (EPC Report to the ERPB — Euro Retail Payments Board — on Instant Payments)
+> Customers make increasingly use of these online and mobile channels to buy goods and services at any time and anywhere. These developments contribute to the expectation for a faster (or real-time) finality and/or confirmation of the payment. (EPC Report to the ERPB — Euro Retail Payments Board — on Instant Payments)
 
 Millennials are busy bees and have very active social lives. They need a more efficient way to manage shared expenses and pay their friends without worrying about doing the math or knowing IBAN numbers.
 
@@ -167,7 +170,7 @@ __4.__ Which factors influence them the most when choosing a payment/transfer se
 
 __5.__ Which pain points are they facing and how can we fix them?
 
-Answering these questions was pivotal to assure we were building a true user centric product that would effectively solve a real problem.
+Answering these questions was pivotal to assure we were building a true user-centric product that would effectively solve a real problem.
 
 To answer our research questions we used the following research methods:
 <br></br>
@@ -186,7 +189,7 @@ To answer our research questions we used the following research methods:
 
 ### Documentary Research and Analysis
 
-Researching and studying the documentation on instant payments and the PSD2 European Directive was of utterly importance, as we weren’t very familiar with all the norms, requirements and constraints that rule electronic payments in the Single Euro Payments Area (SEPA).
+Researching and studying the documentation on instant payments and the PSD2 European Directive was of utter importance, as we weren’t very familiar with all the norms, requirements and constraints that rule electronic payments in the Single Euro Payments Area (SEPA).
 
 You can [download our bibliography here]( https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/payup_bibliography.pdf  "PayUp’s Bibliography") if you want to read some of the documents we studied but... Friendly reminder 😬 … If I were you, I’d stick with just scanning through our findings 💤
 
@@ -198,8 +201,8 @@ The new European Payment Services Directive (PSD2), which becomes applicable on 
 
 All EU banks are obliged to comply with this directive by September 2019, and make open APIs available to any Payment Initiation Service Provider (PISP) — that’s us! 💪
 
-> At the core of PSD2 is the need for Banks (= Account Servicing Payment Service Providers or AS PSPs) to grant AISP and PISP (= Third Party Providers or TPPs) access to their online account/payment services (...)
-This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ PSPs to facilitate secure access through API to their customer accounts and provide account information to third party apps, if the account holder wishes to do so. (PSD2, Open API and Real-time Breakthrough in Payments: the Retailers’ Perspective)
+> At the core of PSD2 is the need for Banks (= Account Servicing Payment Service Providers or AS PSPs) to grant AISP and PISP (= Third-party Providers or TPPs) access to their online account/payment services (...)
+This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ PSPs to facilitate secure access through API to their customer accounts and provide account information to third-party apps if the account holder wishes to do so. (PSD2, Open API and Real-time Breakthrough in Payments: the Retailers’ Perspective)
 
 A PISP is a Service Provider that initiates a payment order (transfer), at the request of the user, relative to an account that is held by another Payment Services Provider (like a bank or SIBS, in Portugal).
 
@@ -210,7 +213,7 @@ Being a PISP, we must comply with a set of **obligations**:
 parts;
 * We cannot change the amount, the payer or any other element of the transaction.
 
-Analyzing the documentation led us to quite a few findings that would have implications in the development of our product:
+Analyzing the documentation led us to quite a few findings that would have implications for the development of our product:
 
 #### Security and Authentication
 
@@ -218,11 +221,11 @@ Analyzing the documentation led us to quite a few findings that would have impli
 
 * Transfers of less than € 30 and whose cumulative amount of transactions since the last transaction that was made with strong authentication does not exceed 100 to 500 euros (depending on the level of fraud observed in the Payments Service Provider — PSP) do not require the strong authentication mechanism.
 
-* Strong authentication is mandatory except for low value transactions (< € 30) or when transferring money to pre-parameterized beneficiaries.
+* Strong authentication is mandatory except for low-value transactions (< € 30) or when transferring money to pre-parameterized beneficiaries.
 
 #### Costs
 
-If there are any, the national transfer fees are settled by the payer, however the SEPA CT scheme allows that fees may be shared between the payer and the beneficiary.
+If there are any, the national transfer fees are settled by the payer, however, the SEPA CT scheme allows that fees may be shared between the payer and the beneficiary.
 
 Just to make it perfectly clear... the payer is the person who sends the money and the beneficiary is the one who receives it. 🤓
 
@@ -518,7 +521,7 @@ We linked our user and job stories to our personas in order to frame our users a
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/user-job-stories.jpg" alt="Excel spreadsheet showing part of our user and job stories" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/user_and_job-stories_v02.xlsx">download the stories here</a>.
 </p>
 
-This structure was a useful tool to boost our creativity, communicate our users’ motivations and desired outcomes more easily, and shape our product to fulfill the users' needs.
+This structure was a useful tool to boost our creativity, communicate our users’ motivations and desired outcomes more easily, and shape our product to fulfil the users' needs.
 
 ## Interaction Design
 
@@ -613,7 +616,7 @@ My main focus was designing the user flow for creating a group, but I also worke
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_extras.jpg" alt="Wireflows’ extra screens" width="1000">I worked on the group screens, history and settings.
 </p>
 
-You can [take a look at the wireflows I worked on here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out my wireflows!").
+You can [take a closer look at the wireflows I worked on here](https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/wireflows "Check out my wireflows!"). They can be downloaded.
 
 ## Visual Design
 
@@ -621,7 +624,7 @@ You can [take a look at the wireflows I worked on here](https://github.com/Filip
 
 We worked on developing a modern and friendly visual identity, that fit our target.
 
-We settled a base colour palette with two shades of blue and purple, trying to harmonize the app and the website's look and feel. Additionally, we used grey for the text and a great deal of light tones to keep the interface clean.
+We settled a base colour palette with two shades of blue and purple, trying to harmonize the app and the website's look and feel. Additionally, we used grey for the text and plenty of light tones to keep the interface clean.
 
 Being the colour associated with technology, Blue represents trust, wisdom, confidence and stability. It has positive effects on the mind and body and can cause it to produce chemicals that radiate calm and tranquillity.
 
@@ -680,7 +683,7 @@ I was fairly pleased with how the wireflows had turned out. In the mockups phase
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_power-user.jpg" alt="PayUp app screens in power user mode" width="1000">Some PayUp screens showing the flow to create a group and add an expense (power user mode).
 </p>
 
-**In power user mode, the number of steps will vary according to how much information the user provides at first.** The chatbot asks the questions needed to fill-in the information gaps.
+**In power user mode, the number of steps will vary according to how much information the user provides at first.** The chatbot asks the questions needed to fill in the information gaps.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_groups.jpg" alt="PayUp app groups' screens" width="1000">PayUp groups' screens.
@@ -746,11 +749,11 @@ We provided evidence, from real testimonies, that our product solves a real issu
 
 In short, we tried to convey the efficiency, high availability and ease of use of our product.
 
-To know more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
+To know more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key "Check out the Pitch Deck!").
 
 ## Conclusion
 
-### What we Learnt
+### What We Learnt
 
 Designing PayUp was a challenging ride. It was clear from the onset that our major challenges would be getting to know the business fast, learning to work as a cohesive team in a short period of time, and finding a value proposition that could make young millennials ditch cash for electronic payments.
 
