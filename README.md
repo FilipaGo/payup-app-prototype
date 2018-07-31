@@ -534,6 +534,22 @@ Using all the information gathered during research, we kickstarted the Interacti
 
 Also, the list would be most helpful when designing the information architecture and the wireflows.
 
+### Information Architecture
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/info-architecture_spreadsheet.jpg" alt="PayUp’s information architecture spreadsheet detail" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/arq-info_v02.xlsx">download the full information architecture spreadsheet here</a>.
+</p>
+
+Up until now we only had an imprecise idea on how the app would function. Mapping its base architecture forced us to start figuring out each step the users would take throughout the product.
+
+We first mapped the structure using a spreadsheet and then rendered it in a diagram.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/info-architecture_diagram.jpg" alt="PayUp’s information architecture diagram" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/arq-info_v02.pdf">download the diagram here</a>.
+</p>
+
+This was the first step to help us outline the app's high-level structure in a logical and intuitive way, as well as visually conceptualise it.
+
 ### Wireflows
 
 To better communicate our design ideas, we developed wireflows for the two main personas. Combining wireframes and user flows let us outline the workflow and screen designs more clearly.
