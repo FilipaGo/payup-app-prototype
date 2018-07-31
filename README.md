@@ -102,7 +102,7 @@ The entry into force in 2018 of the new European Payment Services Directive (PSD
 By promoting the entry of new players in the business, simplifying the processing of digital payments in the European Union, improving its efficiency, reducing the costs of digital payments, forcing banks to make open APIs available and increasing the security of payments with strong customer authentication (2-factor authentication), PSD2 enables this type of system.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/vpc.jpg" alt="Some PayUp's Value Proposition" width="1000">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/vpc.jpg" alt="PayUp's Value Proposition" width="1000">
 Our Value Proposition...
 </p>
 
@@ -248,7 +248,7 @@ Just to make it perfectly clear... the payer is the person who sends the money a
 * Transaction date.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_fav-payment-method.jpg" alt="SIBS Market Report — Preferred payment method" width="1000">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_fav-payment-method.jpg" alt="SIBS Market Report — Preferred Payment Method" width="1000">
 </p>
 
 SIBS carried out a study with the goal of understanding how the Portuguese use different payment methods, find out which ones are the most common and how they are used by consumers with different profiles and in different environments. With this analysis, SIBS also tried to identify trends in the adoption of new and emerging payment methods, as well as any barriers to its adoption.
@@ -285,7 +285,7 @@ If you want to check out the whole interview, [download the pdf here](https://gi
 ### Benchmarking
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" alt="Benchmarking product's logos" width="650">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking-products.jpg" alt="Benchmarking product's logos — ClearXchange, Snapcash, Square Cash, Popmoney, Venmo, Google Wallet, MB WAY, PayPal, Splitwise, Gloneta, Evenfy, Circle Pay, Cospender, Verse, Caixa Plim and Facebook Messenger" width="650">
 </p>
 
 We analyzed **16 products** that allow sending transfers/payments to contacts, request the payment of a debt and/or organize joint expenses, using a mobile phone number and/or an email.
@@ -340,7 +340,7 @@ Splitwise's business model does not imply the generation of revenue from users. 
 A significant number of the apps we checked are geographically limited, some of which operate exclusively in the USA — **PayUp's MVP covers the national territory (Portugal), but in a second phase it will expand to Europe and in a third one, it will cover low banking territories**.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_venn.jpg" width="1000">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/benchmarking_venn.jpg" alt="Venn diagram showing PayUp's main competitors — Caixa Plim, Splitwise, MB WAY, PayPal and Verse" width="1000">
 PayUp’s sectoral competitors.
 </p>
 
@@ -359,7 +359,7 @@ Currently, Verse has a great competitive advantage, as it is completely free of 
 Caixa Plim is only available to Caixa Geral de Depositos' bank clients...
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/value_curves.jpg" width="1000">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/value_curves.jpg" alt="Value Curves' graphic showing that PayUp is ahead of its' competitors" width="1000">
 Value Curves.
 </p>
 
@@ -571,7 +571,7 @@ Using screen designs instead of abstract flowchart symbols kept us focused on th
 The wireflows enabled us to quickly test ideas without diving too much into the details.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing a bit of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing part of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
 </p>
 
 There are 3 important assumptions underlying these wireflow proposals:
@@ -605,7 +605,7 @@ In power user mode, the bot only asks for the missing information that is strict
 I shortened the information requested by the bot to complete each task to a minimum, in both modes (walkthrough and power user). Optionally, the user can add more details at the last step, through the edit screens.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="Edit Screens" width="1000">The edit screens allow the user to change any data that has been filled incorrectly and add more information like a photo or a receipt.
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_edit-screens.jpg" alt="PayUp app's edit Screens" width="1000">The edit screens allow the user to change any data that has been filled incorrectly and add more information like a photo or a receipt.
 </p>
 
 Given time constraints, designing the full app was out of scope for this project.
