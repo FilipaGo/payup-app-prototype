@@ -47,12 +47,23 @@ Even though all team members were involved in all project phases, we each chose 
 
 ***
 
-👉 PayUp App InVision Partial Prototype https://filipago.github.io/payup-app-prototype
+👉 PayUp App InVision Prototype — https://filipago.github.io/payup-app-prototype (all the screens I designed, including extras)
 
 **Create a Group and Add an Expense User Flows:**
 
-1. Bot Walkthrough mode (conversational)
-2. Power User mode (chatbot)
+**1. Bot Walkthrough Mode (conversational)**
+* Login with email and password;
+* Access Bot (actions menu ➝ create a group — “Criar Grupo”);
+* Follow the steps to create a group to share expenses with Ana Sousa and Catarina Maia (select Ana Sousa from the contacts’ list and search for Catarina Maia);
+* Follow the steps to add an expense to that group;
+* Go back to the home screen.
+
+**2. Power User mode (chatbot)**
+* Login with email and password;
+* Access Bot (actions menu ➝ write naturally — “Escrever Naturalmente”);
+* Write what you want to do;
+* Fill in the information asked by the bot to create a group to share expenses with Ana Sousa and Catarina Maia;
+* Go back to the home screen.
 
 Lília tackled the flow for creating an account for a new user and Marta worked on sending money to a friend (making a payment).
 
@@ -703,7 +714,7 @@ We provided evidence, from real testimonies, that our product solves a real issu
 
 In short, we tried to convey the efficiency, high availability and ease of use of our product.
 
-To learn more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
+To know more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key).
 
 ## Conclusion
 
