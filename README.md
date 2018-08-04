@@ -10,7 +10,7 @@ Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Wa
 
 **Table of Contents**
 
-<p>[Project Summary](https://github.com/FilipaGo/payup-app-prototype#project-summary)<br/>
+[Project Summary](https://github.com/FilipaGo/payup-app-prototype#project-summary)<br/>
 [Context and Challenge (Ideation)](https://github.com/FilipaGo/payup-app-prototype#context-and-challenge-ideation)<br/>
 [Methodology](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
 [Research and Strategy](https://github.com/FilipaGo/payup-app-prototype#research-and-strategy)<br/>
@@ -34,7 +34,7 @@ Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Wa
 &emsp;[What We Learnt](https://github.com/FilipaGo/payup-app-prototype#what-we-learnt)<br/>
 &emsp;[Next Steps](https://github.com/FilipaGo/payup-app-prototype#next-steps)<br/>
 &emsp;[Roadmap](https://github.com/FilipaGo/payup-app-prototype#roadmap)<br/>
-&emsp;[Final Thoughts](https://github.com/FilipaGo/payup-app-prototype#final-thoughts)</p>
+&emsp;[Final Thoughts](https://github.com/FilipaGo/payup-app-prototype#final-thoughts)
 
 ## Project Summary
 
