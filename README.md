@@ -830,7 +830,7 @@ If you didn't check the prototypes yet, here are the links:
 * Fill in the information asked by the bot to create a group to share expenses with Ana Sousa and Catarina Maia;
 * Go back to the home screen.
 
-👉 PayUp App Principle Prototype — https://github.com/FilipaGo/payup-app-prototype-principle (follow the README instructions to install the prototype. It only runs on Mac and iOS)
+👉 PayUp App Principle Prototype — https://github.com/FilipaGo/payup-app-prototype-principle (follow the [README instructions](https://github.com/FilipaGo/payup-app-prototype-principle#running-the-prototype-on-a-mac-instructions) to install the prototype. It only runs on Mac and iOS)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/bot-wave.gif" alt="Animated Bot waving" width="300"/>
