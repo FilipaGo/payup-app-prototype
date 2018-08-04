@@ -749,7 +749,7 @@ We provided evidence, from real testimonies, that our product solves a real issu
 
 In short, we tried to convey the efficiency, high availability and ease of use of our product.
 
-To know more about this project, [download our Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key "Check out the Pitch Deck!").
+To know more about this project, [download our Keynote Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_deck.zip "Check out the Pitch Deck!").
 
 ## Conclusion
 
