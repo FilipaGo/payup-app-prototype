@@ -749,7 +749,7 @@ Here's the link to my InVision prototype, both in **walkthrough and power user m
 * Fill in the information asked by the bot to create a group to share expenses with Ana Sousa and Catarina Maia;
 * Go back to the home screen.
 
-I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented. This helped me grasp the app's flow and functionality on a deeper level.
+I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented. This helped me grasp the app's flow, functionality and behaviour on a deeper level.
 
 Given time constraints, I wasn't able to prototype all the screens with Principle, namely the power user's flow. But you can check the walkthrough mode!
 
