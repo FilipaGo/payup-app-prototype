@@ -40,7 +40,7 @@ Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Wa
 
 Project developed with Lília Correia and Marta Casal, under a Postgraduate Diploma in Digital Experience Design, which consisted in designing an interactive or semi-functional prototype of a digital product or service, following a user-centred approach.
 
-We designed PayUp; a mobile app to manage shared expenses, receive and pay debts, without the need to expose banking information. All you need is a mobile phone number.
+We designed PayUp; a **mobile app to manage shared expenses, receive and pay debts, without the need to expose banking information. All you need is a mobile phone number.**
 
 To tackle this challenge we mapped out the following strategy:
 
@@ -74,7 +74,7 @@ To tackle this challenge we mapped out the following strategy:
   - Pitch Deck and Live Demo
   - Project Report
 
-Even though all team members were involved in all project phases, we each chose a main user flow to work on. **I was responsible for designing the flow to create a group to share expenses and add an expense to that group**.
+**Even though all team members were involved in all project phases, we each chose a main user flow to work on.** I was responsible for designing the flow to create a group to share expenses and add an expense to that group.
 
 ***
 
@@ -140,7 +140,7 @@ So our **elevator pitch** went something like this:
 
 ## Methodology
 
-We followed a LEAN methodology throughout this project. Our primary focus was always, first and foremost, on the perception of our potential users’ needs, testing the solutions that emerged and constantly iterating to improve the previously encountered solutions’ hypothesis... Iterate until Awesome!
+We followed a LEAN methodology throughout this project. Our primary focus was always, first and foremost, on the perception of our potential users’ needs, testing the solutions that emerged and constantly iterating to improve the previously encountered solutions’ hypothesis... **Iterate until Awesome!**
 
 Whenever possible, everything was tested with real users; mostly colleagues, trainers and friends. Their feedback was essential to the evolution of the design.
 
@@ -221,7 +221,7 @@ Researching and studying the documentation on instant payments and the PSD2 Euro
 
 You can [download our bibliography here]( https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/payup_bibliography.pdf  "PayUp’s Bibliography") if you want to read some of the documents we studied but... Friendly reminder 😬 … If I were you, I’d stick with just scanning through our findings 💤
 
-The new European Payment Services Directive (PSD2), which becomes applicable on January 13th 2018, is what enables the rising of a product like PayUp.
+**The new European Payment Services Directive (PSD2), which becomes applicable on January 13th 2018, is what enables the rising of a product like PayUp.**
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/psd2.jpg" alt="PSD2 Scheme" width="1000">
@@ -234,14 +234,14 @@ This includes an “Access to Accounts” (XS2A) rule, which will force Banks/ P
 
 A PISP is a Service Provider that initiates a payment order (transfer), at the request of the user, relative to an account that is held by another Payment Services Provider (like a bank or SIBS, in Portugal).
 
-Being a PISP, we must comply with a set of **obligations**:
+**Being a PISP, we must comply with a set of obligations**:
 
 * We may not, at any time, hold the payer's funds;
 * We must ensure that the user's custom security credentials are not accessible by other
 parts;
 * We cannot change the amount, the payer or any other element of the transaction.
 
-Analyzing the documentation led us to quite a few findings that would have implications for the development of our product:
+**Analyzing the documentation led us to quite a few findings that would have implications for the development of our product:**
 
 #### Security and Authentication
 
@@ -287,7 +287,7 @@ The market study shows that most Portuguese internet users prefer making purchas
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-factors.jpg" alt="SIBS Market Report — Relevance of the various factors of choice on P2P payments" width="1000">
 </p>
 
-In this report, SIBS anticipates a rapid migration from cash to electronic payments, as consumers become more and more familiar with the technology and because people mostly value convenience and speed when choosing a payment method for P2P transactions.
+In this report, **SIBS anticipates a rapid migration from cash to electronic payments, as consumers become more and more familiar with the technology and because people mostly value convenience and speed** when choosing a payment method for P2P transactions.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/sibs_mk-report_payment-method-amount.jpg" alt="SIBS Market Report — Most used payment method for making payments, by owned amount" width="1000">
@@ -297,7 +297,7 @@ Cash is still the most used payment method when paying for small amounts.
 
 As PayUp facilitates making payments to family and friends, allowing the user to make an instant interbank transfer to a mobile phone number (no need for IBAN), its simplicity and speed can make it a very convenient alternative to cash, even for smaller payments.
 
-Payments of small amounts among friends are an important opportunity to capture new electronic transactions.
+**Payments of small amounts among friends are an important opportunity to capture new electronic transactions.**
 
 ### Expert Interview
 
@@ -340,7 +340,7 @@ Most products usually target a single functional area: payments (P2P transfers) 
 
 6 out of 9 products available in Portugal allow the user to make payments. 3 out of 9 products only allow the user to manage splitting expenses and creating groups or events to add expenses.
 
-Only 2 out of 9 allow the user to request the payment of expenses and share them, albeit to a limited extent.
+**Only 2 out of 9 allow the user to request the payment of expenses and share them, albeit to a limited extent.**
 
 Some companies' business models point to significant costs for the user in at least some specific circumstances — **PayUp will downsize these costs to a minimum.**
 
@@ -354,7 +354,7 @@ At this stage, all Verse transactions are free of charge and Venmo makes free tr
 
 In the vast majority of cases, cash-out operations are free although there are circumstances where immediate cash-out is charged.
 
-The **sources of income** of these products are quite varied, standing out among them the revenues coming from:
+The **sources of income of these products are quite varied**, standing out among them the revenues coming from:
 
 * Advertising;
 * Trading commissions charged to merchants and customers;
@@ -372,7 +372,7 @@ A significant number of the apps we checked are geographically limited, some of 
 PayUp’s sectoral competitors.
 </p>
 
-With the previous assumptions set forth and taking into account that PayUp intends to cover the entire value chain, we identified the following primary sectoral competitors:
+With the previous assumptions set forth and taking into account that PayUp intends to cover the entire value chain, **we identified the following primary sectoral competitors:**
 
 **In the area of the division of expenses — Splitwise**
 
@@ -402,7 +402,7 @@ Although Venmo could have the potential to be a major competitor, we are not con
 Our Google Form (details).
 </p>
 
-We used **accidental sampling** (selection by convenience or opportunity) on our surveys, which is a type of nonprobability sampling that involves the sample being drawn from a part of the population which is close to hand. That is, the sample was selected because it was readily available and convenient.
+**We used accidental sampling** (selection by convenience or opportunity) on our surveys, which is a type of nonprobability sampling that involves the sample being drawn from a part of the population which is close to hand. That is, the sample was selected because it was readily available and convenient.
 
 Our criteria for selecting elements was based on assumptions regarding the population of interest, therefore, **we could not make generalizations about the total population from this sample** because it wasn’t representative enough.
 
@@ -432,7 +432,7 @@ To generate insights into these, we started out by designing a script that could
 Survey Data Analysis detail. You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/inqueritos_analise_v06.xlsx" >download the full analysis here</a>.
 </p>
 
-We managed to get a **sample of 100** people over 4 days, who kindly accepted to help us out.
+We managed to get a **sample of 100 people over 4 days**, who kindly accepted to help us out.
 
 62% of respondents were female and 38% male. 78% of respondents were aged between 20 and 45 and 70% had a college education.
 
@@ -443,7 +443,7 @@ We managed to get a **sample of 100** people over 4 days, who kindly accepted to
 61% of respondents share expenses. Of those, 85% use online payments.
 </p>
 
-The **key findings** from the online surveys were:
+**The key findings from the online surveys were:**
 
 * The majority of respondents who share expenses, are aged between 26 and 35 and have a college education;
 * They use smartphones, mobile apps and digital payment methods;
@@ -473,7 +473,7 @@ Respondents said that when they decide to pay with cash, it is not because they 
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_01.jpg" alt="Interview quote by Ana Marta Pires, 21 years old — When we have a dinner party with lots of people; someone buys this and someone else buys that... it's hard to manage how much everyone owes. Especially when we lose the bill... it has happened!" width="1000">
 </p>
 
-Most problems that arise from splitting expenses happen when people have to pay for different things with different values, making it hard to manage how much each one owes. In addition, it was mentioned that there are people who forget that they owe money and that having to remind them several times can be annoying and embarrassing.
+**Most problems that arise from splitting expenses happen when people have to pay for different things with different values**, making it hard to manage how much each one owes. In addition, it was mentioned that there are people who forget that they owe money and that having to remind them several times can be annoying and embarrassing.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_02.jpg" alt="Interview quote by Tânia Morais, 23 years old — There is always someone who fails to pay or pretends that he doesn't owe anything" width="1000">
@@ -491,9 +491,9 @@ One of the interviewees mentioned that he doesn't use PayPal for transfers becau
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/count.gif" alt="Millennial guy using his fingers to count" width="100">
 </p>
 
-The **main pain points** identified by the interviewees were:
+**The main pain points identified over the interviews were:**
 
-* Forgetfulness/neglect;
+* Forgetfulness/neglect (to pay);
 * Lack of change/lack of money (right amount);
 * Managing multiple expenses simultaneously;
 * Checking who has already paid / who has to pay;
@@ -504,14 +504,14 @@ The **main pain points** identified by the interviewees were:
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/quote_04.jpg" alt="Interview quote by João Silva, 37 years old — I wish there was a way I could pay immediately, knowing only the phone number. I would pick a contact, enter the amount and OK!" width="1000">
 </p>
 
-The **main needs** perceived over the interviews were:
+**The main needs perceived over the interviews were:**
 
 * Making payments easily;
 * Creating groups to share expenses;
 * Inviting friends;
 * Setting values and payment deadlines;
 * Managing expenses;
-* Receiving and sending notifications;
+* Receiving and sending notifications/reminders;
 * Automated calculation;
 * Not needing much data to make payments;
 
@@ -529,7 +529,7 @@ Research helped us confirm that **our target audience is the Millennials** — y
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/personas.jpg" alt="Some of our personas" width="1000"> Full-size personas can be seen <a href="https://github.com/FilipaGo/payup-app-prototype/tree/master/_images_readme/personas">here</a>.
 </p>
 
-From our documental research, survey analysis and interviews with potential users, we defined 4 personas. **2 main personas** were used for the user flows (Joana and Maria Leonor... Personally, I stuck with Joana).
+From our documental research, survey analysis and interviews with potential users, we defined 4 personas. **2 main personas were used for the user flows** (Joana and Maria Leonor... Personally, I stuck with Joana).
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_joana.jpg" alt="Main persona Joana Antunes" width="1000"> Meet Joana...
@@ -539,11 +539,11 @@ From our documental research, survey analysis and interviews with potential user
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/persona_leonor.jpg" alt="Main persona Maria Leonor" width="1000"> And Maria Leonor!
 </p>
 
-To attend to our users' needs, our product should focus on registering and calculating shared expenses, and on the payment and collection of debts.
+**To attend to our users' needs, our product should focus on registering and calculating shared expenses, and on the payment and collection of debts.**
 
 ### User and Job Stories
 
-We linked our user and job stories to our personas in order to frame our users and understand what they are trying to accomplish. Our goal was to empathize with them and hopefully design useful and purposeful solutions.
+We linked our user and job stories to our personas in order to **frame our users and understand what they are trying to accomplish.** Our goal was to empathize with them and hopefully design useful and purposeful solutions.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/user-job-stories.jpg" alt="Excel spreadsheet showing part of our user and job stories" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/user_and_job-stories_v02.xlsx">download the stories here</a>.
@@ -571,7 +571,7 @@ Also, the list would be most helpful when designing the information architecture
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/info-architecture_spreadsheet.jpg" alt="PayUp’s information architecture spreadsheet detail" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/arq-info_v02.xlsx">download the full information architecture spreadsheet here</a>.
 </p>
 
-Up until now we only had an imprecise idea on how the app would function. Mapping its base architecture forced us to start figuring out each step the users would take throughout the product.
+Up until now we only had an imprecise idea on how the app would function. **Mapping its base architecture forced us to start figuring out each step the users would take throughout the product.**
 
 We first mapped the structure using a spreadsheet and then rendered it in a diagram.
 
@@ -583,7 +583,7 @@ This was the first step to help us outline the app's high-level structure in a l
 
 ### Wireflows
 
-To better communicate our design ideas, we developed wireflows for the two main personas. Combining wireframes and user flows let us outline the workflow and screen designs more clearly.
+To better communicate our design ideas, we developed wireflows for the two main personas. **Combining wireframes and user flows let us outline the workflow and screen designs more clearly.**
 
 **Joana Antunes** :
 - Login; (Me ✅)
@@ -602,7 +602,7 @@ The wireflows enabled us to quickly test ideas without diving too much into the 
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_sketch.jpg" alt="Sketch document detail showcasing part of Joana’s user flow." width="1000">Part of Joana’s user flow when logging in and accessing the actions’ menu to create a group to share expenses.
 </p>
 
-There are 3 important assumptions underlying these wireflow proposals:
+**There are 3 important assumptions underlying these wireflow proposals:**
 
 The increasing popularity of messaging apps among millennials using digital products makes us think that conversational, dialogue-based interfaces are the future, as they are intuitive, fast and familiar.
 
@@ -614,21 +614,21 @@ Interacting with an unknown interface can be frustrating and complex. A chatbot 
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v01.jpg" alt="Part of Joana’s user flow version 1" width="1000">Some screens from the first version of Joana’s user flow to create a group to share expenses.
 </p>
 
-My wireframes went through 3 major iterations (revisions) to simplify and optimize the user’s task flow. I also refined the bot’s dialogues, personality and tone of voice, and fine-tuned the visual hierarchy and components of the main screens.
+**My wireframes went through 3 major iterations (revisions) to simplify and optimize the user’s task flow.** I also refined the bot’s dialogues, personality and tone of voice, and fine-tuned the visual hierarchy and components of the main screens.
 
-The user flow’s first version turned out too tiresome and long. It required the user to enter every detail that could be set up when creating a group and adding an expense. It was all built around the idea of a messaging app.
+**The user flow’s first version turned out too tiresome and long.** It required the user to enter every detail that could be set up when creating a group and adding an expense. It was all built around the idea of a messaging app.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_walkthrough.jpg" alt="Part of Joana’s user flow version 3" width="1000">Some screens from the third version (walkthrough mode).
 </p>
 
-The last wireflows’ version has a completely redesigned main navigation and a quick action menu that the user can access through a floating action button. This FAB allows him to choose one of the 4 common tasks that can be accomplished with PayUp (create a group, add an expense, send money and request money), thus following a pre-determined path presented in a conversational way (walkthrough mode), as well as enter a power user mode that enables him to write quick instructions for the task he wants to complete.
+**The last wireflows’ version has a completely redesigned main navigation and a quick action menu that the user can access through a floating action button.** This FAB allows him to choose one of the 4 common tasks that can be accomplished with PayUp (create a group, add an expense, send money and request money), thus following a pre-determined path presented in a conversational way **(walkthrough mode)**, as well as enter a **power user mode** that enables him to write quick instructions for the task he wants to complete.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_v03_power-user.jpg" alt="Part of Joana’s user flow version 3" width="1000">Some screens from the third version (power user mode).
 </p>
 
-In power user mode, the bot only asks for the missing information that is strictly necessary to perform the task successfully. In this case, creating a group and adding an expense to that group.
+**In power user mode, the bot only asks for the missing information that is strictly necessary to perform the task successfully.** In this case, creating a group and adding an expense to that group.
 
 I shortened the information requested by the bot to complete each task to a minimum, in both modes (walkthrough and power user). Optionally, the user can add more details at the last step, through the edit screens.
 
@@ -638,7 +638,7 @@ I shortened the information requested by the bot to complete each task to a mini
 
 Given time constraints, designing the full app was out of scope for this project.
 
-My main focus was designing the user flow for creating a group, but I also worked on some extra screens to help us convey the full product plan.
+**My main focus was designing the user flow for creating a group, but I also worked on some extra screens to help us convey the full product plan.**
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/wireflows_extras.jpg" alt="Wireflows’ extra screens" width="1000">I worked on the group screens, history and settings.
@@ -662,7 +662,7 @@ We went for a darker blue and a brighter blue on the app. A corporate darker blu
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/logo.jpg" alt="PayUp logo" width="1000">
 </p>
 
-We based the logo design on 3 concepts that were primary in this project:
+**We based the logo design on 3 concepts that were primary in this project:**
 
 * sharing
 * friendship/closeness
@@ -727,7 +727,7 @@ The group detail screen features a tabular navigation that allows the user to ch
 
 ## Prototyping
 
-I used InVision to connect the flow of all the screens I designed, show the functioning of the product and do some testing.
+**I used InVision to connect the flow of all the screens I designed, show the functioning of the product and do some testing.**
 
 Here's the link to my InVision prototype, both in **walkthrough and power user mode** (create a group and add an expense user flows, plus the extra screens I designed, like groups):
 
@@ -749,7 +749,7 @@ Here's the link to my InVision prototype, both in **walkthrough and power user m
 * Fill in the information asked by the bot to create a group to share expenses with Ana Sousa and Catarina Maia;
 * Go back to the home screen.
 
-I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented. This helped me grasp the app's flow, functionality and behaviour on a deeper level.
+**I used Principle to emulate the micro-interactions in a more organic way and explore how motion could be implemented.** This helped me grasp the app's flow, functionality and behaviour on a deeper level.
 
 Given time constraints, I wasn't able to prototype all the screens with Principle, namely the power user's flow. But you can check the walkthrough mode!
 
@@ -763,7 +763,7 @@ This prototype can only run on your Mac or iOS device.
 
 We ran out of time for extensive user testing but we did manage to run some tests with the same people we interviewed during research.
 
-**The feedback was quite positive** and all users were able to quickly perform the tasks we asked them to complete.
+**The feedback was quite positive and all users were able to quickly perform the tasks we asked them to.**
 
 > I can see the app targets a young audience. It solves many issues that are part of our daily life; from splitting travelling costs to tracking meal expenses. It solves a problem that is genuine and real. (Mariana Pisa, 22, Lisbon)
 
@@ -775,7 +775,7 @@ The final presentation of the project was all about describing the problem we tr
 
 We provided evidence, from real testimonies, that our product solves a real issue. We described the segment we are targeting, our estimated market size in Portugal, and what sets us apart from the competition. We also discussed our launching strategy and prospective revenue sources.
 
-In short, we tried to convey the efficiency, high availability and ease of use of our product.
+In short, **we tried to convey the efficiency, high availability and ease of use of our product.**
 
 To know more about this project, [download our Keynote Pitch Deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_deck.zip "Check out the Pitch Deck!").
 
@@ -783,7 +783,7 @@ To know more about this project, [download our Keynote Pitch Deck](https://githu
 
 ### What We Learnt
 
-Designing PayUp was a challenging ride. It was clear from the onset that our major challenges would be getting to know the business fast, learning to work as a cohesive team in a short period of time, and finding a value proposition that could make young millennials ditch cash for electronic payments.
+Designing PayUp was a challenging ride. **It was clear from the onset that our major challenges would be getting to know the business fast, learning to work as a cohesive team in a short period of time, and finding a value proposition that could make young millennials ditch cash for electronic payments.**
 
 We studied the documentation and researched our competition. We understood our users' needs and pain points through the surveys and interviews. Finally, we faced the challenge of creating an engaging product that could give a great experience to our users and was also visually appealing.
 
@@ -832,7 +832,7 @@ From an economic perspective, the growing trend towards the dematerialization of
 
 Nowadays, the transactions targeted by PayUp are typically settled with “cash”. PayUp can be an incentive for making these adjustments online, without using currency. This is beneficial for the user, because of its simplicity, speed and control, but also for financial entities, since it promotes the use of electronic transactions to the detriment of cash circulation. Electronic transactions entail much lower costs for Banks than their equivalent in cash.
 
-The promotion of our product, by interested entities of the financial system, will have an obvious side effect to their benefit. PayUp encourages users to a “more consistent” use of electronic payment methods and can induce them to adopt these with more regularity even outside our app. Leading people to a more systematic recurrence to home banking platforms will have positive effects on their respective financial entities. Not only by the direct increase of the revenue generated by these transactions but also by discouraging the direct attendance at the branches of the institutions, which have much higher costs for equivalent transactions.
+The promotion of our product, by interested entities of the financial system, will have an obvious side effect to their benefit. **PayUp encourages users to a “more consistent” use of electronic payment methods and can induce them to adopt these with more regularity even outside our app.** Leading people to a more systematic recurrence to home banking platforms will have positive effects on their respective financial entities. Not only by the direct increase of the revenue generated by these transactions but also by discouraging the direct attendance at the branches of the institutions, which have much higher costs for equivalent transactions.
 
 From a technological perspective, PayUp resorts to the latest evolutions in user interaction with an evolved “chatbot” that simplifies these interplays. PayUp uses “Natural Language” to minimize the effort required to accomplish a task, making use of advanced technological resources in “Cognitive Processing”.
 
