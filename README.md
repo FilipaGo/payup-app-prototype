@@ -680,7 +680,7 @@ We used purple on the logo because it embodies transformation, and PayUp can def
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_sketch.jpg" alt="Sketch document showing a couple of PayUp app screens" width="1000">
 </p>
 
-We designed high-fidelity mockups to communicate in a more realistic way the look and feel of our MVP.
+We designed high-fidelity mockups to communicate in a more realistic way the look and feel of our MVP for iOS.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/mockups_login.jpg" alt="PayUp app login screens" width="1000">PayUp's intro screens and login.
