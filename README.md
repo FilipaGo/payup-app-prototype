@@ -792,6 +792,7 @@ There were things we could have done better (there always are). But overall, giv
 ### Next Steps
 
 * Finish up the MVP’s screens;
+* Design the Android version;
 * Full GDPR compliance (General Data Protection Regulation);
 * In-depth user research;
 * Extensive usability testing;
