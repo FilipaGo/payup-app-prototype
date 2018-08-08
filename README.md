@@ -672,6 +672,10 @@ The logo was vaguely inspired by the symbol we currently use for sharing. It pla
 
 It inverts, entangles and expands the original symbol, creating a recognizable uppercase P.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/styles.jpg" alt="PayUp visual styles" width="1000">
+</p>
+
 We used purple on the logo because it embodies transformation, and PayUp can definitely change the way we share and split expenses.
 
 ### Mockups
