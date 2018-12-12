@@ -186,7 +186,7 @@ We designed all visual aspects concerning the product, from branding to high-fid
 
 ## Research and Strategy
 
-Our research plan was kickstarted by five central questions:
+Our research plan was kick-started by five central questions:
 
 __1.__ What are the most important technical and legal requirements and constraints when developing an instant payment/transfer service?
 
@@ -557,7 +557,7 @@ Our central goal at this stage was achieving a clear and intuitive interface.
 
 ### Functional Requirements Analysis
 
-Using all the information gathered during research, we kickstarted the Interaction Design phase by listing all the functional requirements we thought were important for our product.
+Using all the information gathered during research, we kick-started the Interaction Design phase by listing all the functional requirements we thought were important for our product.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-app-prototype/master/_images_readme/requirements.jpg" alt="Functional Requirements Listing" width="1000">You can <a href="https://github.com/FilipaGo/payup-app-prototype/raw/master/_docs_readme/requisitos_funcionais.pdf">download the full analysis here</a>.
