@@ -10,31 +10,31 @@ Some PayUp screens. From left to right: Onboarding, Home, Unfolded menu, Bot (Wa
 
 **Table of Contents**
 
-[Project Summary](https://github.com/FilipaGo/payup-app-prototype#project-summary)<br/>
-[Context and Challenge (Ideation)](https://github.com/FilipaGo/payup-app-prototype#context-and-challenge-ideation)<br/>
-[Methodology](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
-[Research and Strategy](https://github.com/FilipaGo/payup-app-prototype#research-and-strategy)<br/>
-&emsp;[Documentary Research and Analysis](https://github.com/FilipaGo/payup-app-prototype#documentary-research-and-analysis)<br/>
-&emsp;[Expert Interview](https://github.com/FilipaGo/payup-app-prototype#expert-interview)<br/>
-&emsp;[Benchmarking](https://github.com/FilipaGo/payup-app-prototype#benchmarking)<br/>
-&emsp;[Online Surveys](https://github.com/FilipaGo/payup-app-prototype#online-surveys)<br/>
-&emsp;[User Interviews](https://github.com/FilipaGo/payup-app-prototype#potential-user-interviews)<br/>
-&emsp;[Personas](https://github.com/FilipaGo/payup-app-prototype#personas)<br/>
-&emsp;[User and Job Stories](https://github.com/FilipaGo/payup-app-prototype#user-and-job-stories)<br/>
-[Interaction Design](https://github.com/FilipaGo/payup-app-prototype#interaction-design)<br/>
-&emsp;[Functional Requirements Analysis](https://github.com/FilipaGo/payup-app-prototype#functional-requirements-analysis)<br/>
-&emsp;[Information Architecture](https://github.com/FilipaGo/payup-app-prototype#information-architecture)<br/>
-&emsp;[Wireflows](https://github.com/FilipaGo/payup-app-prototype#wireflows)<br/>
-[Visual Design](https://github.com/FilipaGo/payup-app-prototype#visual-design)<br/>
-&emsp;[Branding and Identity](https://github.com/FilipaGo/payup-app-prototype#branding-and-identity)<br/>
-&emsp;[Mockups](https://github.com/FilipaGo/payup-app-prototype#mockups)<br/>
-[Prototyping](https://github.com/FilipaGo/payup-app-prototype#prototyping)<br/>
-[Presentation](https://github.com/FilipaGo/payup-app-prototype#presentation)<br/>
-[Conclusion](https://github.com/FilipaGo/payup-app-prototype#conclusion)<br/>
-&emsp;[What We Learnt](https://github.com/FilipaGo/payup-app-prototype#what-we-learnt)<br/>
-&emsp;[Next Steps](https://github.com/FilipaGo/payup-app-prototype#next-steps)<br/>
-&emsp;[Roadmap](https://github.com/FilipaGo/payup-app-prototype#roadmap)<br/>
-&emsp;[Final Thoughts](https://github.com/FilipaGo/payup-app-prototype#final-thoughts)
+* [Project Summary](https://github.com/FilipaGo/payup-app-prototype#project-summary)<br/>
+* [Context and Challenge (Ideation)](https://github.com/FilipaGo/payup-app-prototype#context-and-challenge-ideation)<br/>
+* [Methodology](https://github.com/FilipaGo/payup-app-prototype#methodology)<br/>
+* [Research and Strategy](https://github.com/FilipaGo/payup-app-prototype#research-and-strategy)<br/>
+  * [Documentary Research and Analysis](https://github.com/FilipaGo/payup-app-prototype#documentary-research-and-analysis)<br/>
+  * [Expert Interview](https://github.com/FilipaGo/payup-app-prototype#expert-interview)<br/>
+  * [Benchmarking](https://github.com/FilipaGo/payup-app-prototype#benchmarking)<br/>
+  * [Online Surveys](https://github.com/FilipaGo/payup-app-prototype#online-surveys)<br/>
+  * [User Interviews](https://github.com/FilipaGo/payup-app-prototype#potential-user-interviews)<br/>
+  * [Personas](https://github.com/FilipaGo/payup-app-prototype#personas)<br/>
+  * [User and Job Stories](https://github.com/FilipaGo/payup-app-prototype#user-and-job-stories)<br/>
+* [Interaction Design](https://github.com/FilipaGo/payup-app-prototype#interaction-design)<br/>
+  * [Functional Requirements Analysis](https://github.com/FilipaGo/payup-app-prototype#functional-requirements-analysis)<br/>
+  * [Information Architecture](https://github.com/FilipaGo/payup-app-prototype#information-architecture)<br/>
+  * [Wireflows](https://github.com/FilipaGo/payup-app-prototype#wireflows)<br/>
+* [Visual Design](https://github.com/FilipaGo/payup-app-prototype#visual-design)<br/>
+  * [Branding and Identity](https://github.com/FilipaGo/payup-app-prototype#branding-and-identity)<br/>
+  * [Mockups](https://github.com/FilipaGo/payup-app-prototype#mockups)<br/>
+* [Prototyping](https://github.com/FilipaGo/payup-app-prototype#prototyping)<br/>
+* [Presentation](https://github.com/FilipaGo/payup-app-prototype#presentation)<br/>
+* [Conclusion](https://github.com/FilipaGo/payup-app-prototype#conclusion)<br/>
+  * [What We Learnt](https://github.com/FilipaGo/payup-app-prototype#what-we-learnt)<br/>
+  * [Next Steps](https://github.com/FilipaGo/payup-app-prototype#next-steps)<br/>
+  * [Roadmap](https://github.com/FilipaGo/payup-app-prototype#roadmap)<br/>
+  * [Final Thoughts](https://github.com/FilipaGo/payup-app-prototype#final-thoughts)
 
 ## Project Summary
 
